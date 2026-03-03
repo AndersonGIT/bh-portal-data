@@ -140,6 +140,16 @@
     "posicao": 14
   },
   {
+    "nome": "KnightGaren-",
+    "power": 690,
+    "classeCele": "CAPTURA(Capture)",
+    "classeSub": "NATUREZA(Nature)",
+    "levelCele": 312,
+    "levelSub": 303,
+    "guildMedal": "G1",
+    "posicao": 15
+  },
+  {
     "nome": "BlackDanger ",
     "power": 642.87,
     "classeCele": "SOBREVIV?NCIA(Survival)",
@@ -147,7 +157,7 @@
     "levelCele": 410,
     "levelSub": 405,
     "guildMedal": "G1",
-    "posicao": 15
+    "posicao": 16
   },
   {
     "nome": "Hitecoos",
@@ -157,7 +167,7 @@
     "levelCele": 362,
     "levelSub": 360,
     "guildMedal": "G1",
-    "posicao": 16
+    "posicao": 17
   },
   {
     "nome": "Keffra",
@@ -167,7 +177,7 @@
     "levelCele": 425,
     "levelSub": 424,
     "guildMedal": "G1",
-    "posicao": 17
+    "posicao": 18
   },
   {
     "nome": "StarWade ",
@@ -177,7 +187,7 @@
     "levelCele": 413,
     "levelSub": 420,
     "guildMedal": "G2",
-    "posicao": 18
+    "posicao": 19
   },
   {
     "nome": "-NightSoul-",
@@ -187,7 +197,7 @@
     "levelCele": 400,
     "levelSub": 403,
     "guildMedal": "G1",
-    "posicao": 19
+    "posicao": 20
   },
   {
     "nome": "DecoGuitar",
@@ -197,7 +207,7 @@
     "levelCele": 300,
     "levelSub": 312,
     "guildMedal": "G2",
-    "posicao": 20
+    "posicao": 21
   },
   {
     "nome": "DarkBane",
@@ -207,6 +217,6 @@
     "levelCele": 220,
     "levelSub": 197,
     "guildMedal": "G2",
-    "posicao": 21
+    "posicao": 22
   }
 ]
