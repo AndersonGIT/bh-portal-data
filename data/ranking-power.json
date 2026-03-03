@@ -200,6 +200,16 @@
     "posicao": 20
   },
   {
+    "nome": "CoisaLindaBB",
+    "power": 648.44,
+    "classeCele": "TRANS",
+    "classeSub": "TRANS",
+    "levelCele": 410,
+    "levelSub": 410,
+    "guildMedal": "G1",
+    "posicao": 21
+  },
+  {
     "nome": "BlackDanger ",
     "power": 642.87,
     "classeCele": "SOBREVIV?NCIA(Survival)",
@@ -207,7 +217,7 @@
     "levelCele": 410,
     "levelSub": 405,
     "guildMedal": "G1",
-    "posicao": 21
+    "posicao": 22
   },
   {
     "nome": "Hitecoos",
@@ -217,7 +227,7 @@
     "levelCele": 362,
     "levelSub": 360,
     "guildMedal": "G1",
-    "posicao": 22
+    "posicao": 23
   },
   {
     "nome": "Keffra",
@@ -227,7 +237,7 @@
     "levelCele": 425,
     "levelSub": 424,
     "guildMedal": "G1",
-    "posicao": 23
+    "posicao": 24
   },
   {
     "nome": "StarWade ",
@@ -237,7 +247,7 @@
     "levelCele": 413,
     "levelSub": 420,
     "guildMedal": "G2",
-    "posicao": 24
+    "posicao": 25
   },
   {
     "nome": "-NightSoul-",
@@ -247,7 +257,7 @@
     "levelCele": 400,
     "levelSub": 403,
     "guildMedal": "G1",
-    "posicao": 25
+    "posicao": 26
   },
   {
     "nome": "Vagino",
@@ -257,7 +267,7 @@
     "levelCele": 388,
     "levelSub": 391,
     "guildMedal": "G1",
-    "posicao": 26
+    "posicao": 27
   },
   {
     "nome": "DecoGuitar",
@@ -267,7 +277,7 @@
     "levelCele": 300,
     "levelSub": 312,
     "guildMedal": "G2",
-    "posicao": 27
+    "posicao": 28
   },
   {
     "nome": "DarkBane",
@@ -277,6 +287,6 @@
     "levelCele": 220,
     "levelSub": 197,
     "guildMedal": "G2",
-    "posicao": 28
+    "posicao": 29
   }
 ]
