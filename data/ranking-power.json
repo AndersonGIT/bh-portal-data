@@ -150,6 +150,16 @@
     "posicao": 15
   },
   {
+    "nome": "Keffra",
+    "power": 576.3,
+    "classeCele": "NATUREZA(Nature)",
+    "classeSub": "TRANS",
+    "levelCele": 425,
+    "levelSub": 424,
+    "guildMedal": "G1",
+    "posicao": 16
+  },
+  {
     "nome": "StarWade ",
     "power": 552.79,
     "classeCele": "SOBREVIV?NCIA(Survival)",
@@ -157,7 +167,7 @@
     "levelCele": 413,
     "levelSub": 420,
     "guildMedal": "G2",
-    "posicao": 16
+    "posicao": 17
   },
   {
     "nome": "-NightSoul-",
@@ -167,7 +177,7 @@
     "levelCele": 400,
     "levelSub": 403,
     "guildMedal": "G1",
-    "posicao": 17
+    "posicao": 18
   },
   {
     "nome": "DecoGuitar",
@@ -177,7 +187,7 @@
     "levelCele": 300,
     "levelSub": 312,
     "guildMedal": "G2",
-    "posicao": 18
+    "posicao": 19
   },
   {
     "nome": "DarkBane",
@@ -187,6 +197,6 @@
     "levelCele": 220,
     "levelSub": 197,
     "guildMedal": "G2",
-    "posicao": 19
+    "posicao": 20
   }
 ]
