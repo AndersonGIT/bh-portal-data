@@ -230,6 +230,16 @@
     "posicao": 23
   },
   {
+    "nome": "Vagino",
+    "power": 479.17,
+    "classeCele": "ELEMENTAL(Element)",
+    "classeSub": "BLACK",
+    "levelCele": 388,
+    "levelSub": 391,
+    "guildMedal": "G1",
+    "posicao": 24
+  },
+  {
     "nome": "DecoGuitar",
     "power": 279.82,
     "classeCele": "ELEMENTAL(Element)",
@@ -237,7 +247,7 @@
     "levelCele": 300,
     "levelSub": 312,
     "guildMedal": "G2",
-    "posicao": 24
+    "posicao": 25
   },
   {
     "nome": "DarkBane",
@@ -247,6 +257,6 @@
     "levelCele": 220,
     "levelSub": 197,
     "guildMedal": "G2",
-    "posicao": 25
+    "posicao": 26
   }
 ]
