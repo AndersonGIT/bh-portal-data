@@ -50,6 +50,16 @@
     "posicao": 5
   },
   {
+    "nome": "Bigods",
+    "power": 914.9,
+    "classeCele": "EVOCA?AO(Summon)",
+    "classeSub": "ELEMENTAL(Element)",
+    "levelCele": 432,
+    "levelSub": 427,
+    "guildMedal": "G1",
+    "posicao": 6
+  },
+  {
     "nome": "zHuntin",
     "power": 900.03,
     "classeCele": "NATUREZA(Nature)",
@@ -57,7 +67,7 @@
     "levelCele": 430,
     "levelSub": 425,
     "guildMedal": "G1",
-    "posicao": 6
+    "posicao": 7
   },
   {
     "nome": "Teiker",
@@ -67,7 +77,7 @@
     "levelCele": 400,
     "levelSub": 409,
     "guildMedal": "G1",
-    "posicao": 7
+    "posicao": 8
   },
   {
     "nome": "OrionPax",
@@ -77,7 +87,7 @@
     "levelCele": 410,
     "levelSub": 408,
     "guildMedal": "G1",
-    "posicao": 8
+    "posicao": 9
   },
   {
     "nome": "Rachid",
@@ -87,7 +97,7 @@
     "levelCele": 422,
     "levelSub": 418,
     "guildMedal": "G1",
-    "posicao": 9
+    "posicao": 10
   },
   {
     "nome": "-Ravok-",
@@ -97,7 +107,7 @@
     "levelCele": 418,
     "levelSub": 412,
     "guildMedal": "G1",
-    "posicao": 10
+    "posicao": 11
   },
   {
     "nome": "FoRtex",
@@ -107,7 +117,7 @@
     "levelCele": 410,
     "levelSub": 409,
     "guildMedal": "G1",
-    "posicao": 11
+    "posicao": 12
   },
   {
     "nome": "Alkapone ",
@@ -116,16 +126,6 @@
     "classeSub": "ESPECIAL(Special)",
     "levelCele": 225,
     "levelSub": 225,
-    "guildMedal": "G1",
-    "posicao": 12
-  },
-  {
-    "nome": "-Neurotoxina",
-    "power": 760.66,
-    "classeCele": "SOBREVIV?NCIA(Survival)",
-    "classeSub": "SOBREVIV?NCIA(Survival)",
-    "levelCele": 421,
-    "levelSub": 420,
     "guildMedal": "G1",
     "posicao": 13
   },
@@ -140,6 +140,16 @@
     "posicao": 14
   },
   {
+    "nome": "-Neurotoxina",
+    "power": 760.66,
+    "classeCele": "SOBREVIV?NCIA(Survival)",
+    "classeSub": "SOBREVIV?NCIA(Survival)",
+    "levelCele": 421,
+    "levelSub": 420,
+    "guildMedal": "G1",
+    "posicao": 15
+  },
+  {
     "nome": "Danilo-",
     "power": 759.66,
     "classeCele": "NATUREZA(Nature)",
@@ -147,7 +157,7 @@
     "levelCele": 415,
     "levelSub": 416,
     "guildMedal": "G1",
-    "posicao": 15
+    "posicao": 16
   },
   {
     "nome": "PuroVoodoo",
@@ -157,7 +167,7 @@
     "levelCele": 421,
     "levelSub": 420,
     "guildMedal": "G1",
-    "posicao": 16
+    "posicao": 17
   },
   {
     "nome": "LevYzao",
@@ -167,7 +177,7 @@
     "levelCele": 425,
     "levelSub": 421,
     "guildMedal": "G1",
-    "posicao": 17
+    "posicao": 18
   },
   {
     "nome": "-1TACHI-",
@@ -177,7 +187,7 @@
     "levelCele": 400,
     "levelSub": 395,
     "guildMedal": "G1",
-    "posicao": 18
+    "posicao": 19
   },
   {
     "nome": "KnightGaren-",
@@ -187,7 +197,7 @@
     "levelCele": 412,
     "levelSub": 403,
     "guildMedal": "G1",
-    "posicao": 19
+    "posicao": 20
   },
   {
     "nome": "BlackDanger ",
@@ -197,7 +207,7 @@
     "levelCele": 410,
     "levelSub": 405,
     "guildMedal": "G1",
-    "posicao": 20
+    "posicao": 21
   },
   {
     "nome": "Hitecoos",
@@ -207,7 +217,7 @@
     "levelCele": 362,
     "levelSub": 360,
     "guildMedal": "G1",
-    "posicao": 21
+    "posicao": 22
   },
   {
     "nome": "Keffra",
@@ -217,7 +227,7 @@
     "levelCele": 425,
     "levelSub": 424,
     "guildMedal": "G1",
-    "posicao": 22
+    "posicao": 23
   },
   {
     "nome": "StarWade ",
@@ -227,7 +237,7 @@
     "levelCele": 413,
     "levelSub": 420,
     "guildMedal": "G2",
-    "posicao": 23
+    "posicao": 24
   },
   {
     "nome": "-NightSoul-",
@@ -237,7 +247,7 @@
     "levelCele": 400,
     "levelSub": 403,
     "guildMedal": "G1",
-    "posicao": 24
+    "posicao": 25
   },
   {
     "nome": "Vagino",
@@ -247,7 +257,7 @@
     "levelCele": 388,
     "levelSub": 391,
     "guildMedal": "G1",
-    "posicao": 25
+    "posicao": 26
   },
   {
     "nome": "DecoGuitar",
@@ -257,7 +267,7 @@
     "levelCele": 300,
     "levelSub": 312,
     "guildMedal": "G2",
-    "posicao": 26
+    "posicao": 27
   },
   {
     "nome": "DarkBane",
@@ -267,6 +277,6 @@
     "levelCele": 220,
     "levelSub": 197,
     "guildMedal": "G2",
-    "posicao": 27
+    "posicao": 28
   }
 ]
