@@ -151,11 +151,11 @@
   },
   {
     "nome": "KnightGaren-",
-    "power": 690,
+    "power": 710,
     "classeCele": "CAPTURA(Capture)",
     "classeSub": "NATUREZA(Nature)",
-    "levelCele": 312,
-    "levelSub": 303,
+    "levelCele": 412,
+    "levelSub": 403,
     "guildMedal": "G1",
     "posicao": 16
   },
