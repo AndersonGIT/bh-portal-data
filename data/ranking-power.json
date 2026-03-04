@@ -2,7 +2,7 @@
   {
     "dataHoraCadastro": "2026-02-28T20:15:26.493Z",
     "nome": "-ZecaXereca",
-    "power": 1059.58,
+    "power": 1050.24,
     "classeCele": "NATUREZA(Nature)",
     "classeSub": "CAPTURA(Capture)",
     "levelCele": 420,
@@ -13,7 +13,7 @@
   {
     "dataHoraCadastro": "2026-02-28T03:20:39.081Z",
     "nome": "zVoid",
-    "power": 978.07,
+    "power": 968.6,
     "classeCele": "SOBREVIV?NCIA(Survival)",
     "classeSub": "CAPTURA(Capture)",
     "levelCele": 430,
@@ -24,7 +24,7 @@
   {
     "dataHoraCadastro": "2026-03-03T22:14:30.079Z",
     "nome": "TAQUEPARILL",
-    "power": 972.52,
+    "power": 963.11,
     "classeCele": "CONFIAN?A(Faith)",
     "classeSub": "BLACK",
     "levelCele": 425,
@@ -35,7 +35,7 @@
   {
     "dataHoraCadastro": "2026-03-01T17:50:55.302Z",
     "nome": "RADIOHEAD ",
-    "power": 969.97,
+    "power": 960.6,
     "classeCele": "CONFIAN?A(Faith)",
     "classeSub": "BLACK",
     "levelCele": 420,
@@ -46,7 +46,7 @@
   {
     "dataHoraCadastro": "2026-03-03T22:21:04.983Z",
     "nome": "SheelVPower",
-    "power": 931.17,
+    "power": 921.8,
     "classeCele": "NATUREZA(Nature)",
     "classeSub": "TRANS",
     "levelCele": 422,
@@ -57,7 +57,7 @@
   {
     "dataHoraCadastro": "2026-03-03T23:10:04.231Z",
     "nome": "Bigods",
-    "power": 924.44,
+    "power": 914.9,
     "classeCele": "EVOCA?AO(Summon)",
     "classeSub": "ELEMENTAL(Element)",
     "levelCele": 432,
@@ -66,31 +66,31 @@
     "posicao": 6
   },
   {
-    "dataHoraCadastro": "2026-02-28T00:24:41.235Z",
-    "nome": "zHuntin",
-    "power": 909.53,
-    "classeCele": "NATUREZA(Nature)",
-    "classeSub": "CAPTURA(Capture)",
-    "levelCele": 430,
-    "levelSub": 425,
-    "guildMedal": "G1",
-    "posicao": 7
-  },
-  {
     "dataHoraCadastro": "2026-03-03T23:34:07.923Z",
     "nome": "Nazg?ll ",
-    "power": 909.52,
+    "power": 900.41,
     "classeCele": "SOBREVIV?NCIA(Survival)",
     "classeSub": "TRANS",
     "levelCele": 410,
     "levelSub": 410,
+    "guildMedal": "G1",
+    "posicao": 7
+  },
+  {
+    "dataHoraCadastro": "2026-02-28T00:24:41.235Z",
+    "nome": "zHuntin",
+    "power": 900.03,
+    "classeCele": "NATUREZA(Nature)",
+    "classeSub": "CAPTURA(Capture)",
+    "levelCele": 430,
+    "levelSub": 425,
     "guildMedal": "G1",
     "posicao": 8
   },
   {
     "dataHoraCadastro": "2026-02-28T17:11:03.555Z",
     "nome": "Teiker",
-    "power": 890.33,
+    "power": 881.34,
     "classeCele": "CAPTURA(Capture)",
     "classeSub": "NATUREZA(Nature)",
     "levelCele": 400,
@@ -101,7 +101,7 @@
   {
     "dataHoraCadastro": "2026-02-27T22:37:39.817Z",
     "nome": "OrionPax",
-    "power": 852.26,
+    "power": 843.17,
     "classeCele": "NATUREZA(Nature)",
     "classeSub": "SOBREVIV?NCIA(Survival)",
     "levelCele": 410,
@@ -112,7 +112,7 @@
   {
     "dataHoraCadastro": "2026-03-02T20:30:58.245Z",
     "nome": "Rachid",
-    "power": 828.68,
+    "power": 819.35,
     "classeCele": "BLACK",
     "classeSub": "ESPECIAL(Special)",
     "levelCele": 422,
@@ -123,7 +123,7 @@
   {
     "dataHoraCadastro": "2026-03-03T22:16:38.413Z",
     "nome": "-Ravok-",
-    "power": 796.73,
+    "power": 787.51,
     "classeCele": "BLACK",
     "classeSub": "BLACK",
     "levelCele": 418,
@@ -134,7 +134,7 @@
   {
     "dataHoraCadastro": "2026-03-03T22:33:05.511Z",
     "nome": "FoRtex",
-    "power": 775.5,
+    "power": 766.4,
     "classeCele": "CAPTURA(Capture)",
     "classeSub": "SOBREVIV?NCIA(Survival)",
     "levelCele": 410,
@@ -145,7 +145,7 @@
   {
     "dataHoraCadastro": "2026-03-04T04:20:44.333Z",
     "nome": "Xibilson",
-    "power": 771.74,
+    "power": 762.82,
     "classeCele": "CONFIAN?A(Faith)",
     "classeSub": "BLACK",
     "levelCele": 403,
@@ -154,42 +154,42 @@
     "posicao": 14
   },
   {
+    "dataHoraCadastro": "2026-02-28T00:55:10.368Z",
+    "nome": "Alkapone ",
+    "power": 761.4,
+    "classeCele": "BLACK",
+    "classeSub": "ESPECIAL(Special)",
+    "levelCele": 225,
+    "levelSub": 225,
+    "guildMedal": "G1",
+    "posicao": 15
+  },
+  {
     "dataHoraCadastro": "2026-03-03T22:24:50.720Z",
     "nome": "-Neurotoxina",
-    "power": 770,
+    "power": 760.66,
     "classeCele": "SOBREVIV?NCIA(Survival)",
     "classeSub": "SOBREVIV?NCIA(Survival)",
     "levelCele": 421,
     "levelSub": 420,
     "guildMedal": "G1",
-    "posicao": 15
+    "posicao": 16
   },
   {
     "dataHoraCadastro": "2026-02-28T01:53:52.440Z",
     "nome": "Danilo-",
-    "power": 768.89,
+    "power": 759.66,
     "classeCele": "NATUREZA(Nature)",
     "classeSub": "TRANS",
     "levelCele": 415,
     "levelSub": 416,
-    "guildMedal": "G1",
-    "posicao": 16
-  },
-  {
-    "dataHoraCadastro": "2026-02-28T00:55:10.368Z",
-    "nome": "Alkapone ",
-    "power": 766.4,
-    "classeCele": "BLACK",
-    "classeSub": "ESPECIAL(Special)",
-    "levelCele": 225,
-    "levelSub": 225,
     "guildMedal": "G1",
     "posicao": 17
   },
   {
     "dataHoraCadastro": "2026-03-04T04:13:57.065Z",
     "nome": "-1TACHI-",
-    "power": 751.51,
+    "power": 742.61,
     "classeCele": "NATUREZA(Nature)",
     "classeSub": "TRANS",
     "levelCele": 401,
@@ -200,7 +200,7 @@
   {
     "dataHoraCadastro": "2026-03-02T22:59:18.135Z",
     "nome": "PuroVoodoo",
-    "power": 742.96,
+    "power": 733.62,
     "classeCele": "BLACK",
     "classeSub": "BLACK",
     "levelCele": 421,
@@ -211,7 +211,7 @@
   {
     "dataHoraCadastro": "2026-02-28T13:55:50.592Z",
     "nome": "LevYzao",
-    "power": 739.45,
+    "power": 730.05,
     "classeCele": "SOBREVIV?NCIA(Survival)",
     "classeSub": "NATUREZA(Nature)",
     "levelCele": 425,
@@ -222,7 +222,7 @@
   {
     "dataHoraCadastro": "2026-03-03T22:23:48.970Z",
     "nome": "KnightGaren-",
-    "power": 719.06,
+    "power": 710,
     "classeCele": "CAPTURA(Capture)",
     "classeSub": "NATUREZA(Nature)",
     "levelCele": 412,
@@ -233,7 +233,7 @@
   {
     "dataHoraCadastro": "2026-03-03T23:26:26.258Z",
     "nome": "CoisaLindaBB",
-    "power": 657.55,
+    "power": 648.44,
     "classeCele": "TRANS",
     "classeSub": "TRANS",
     "levelCele": 410,
@@ -244,7 +244,7 @@
   {
     "dataHoraCadastro": "2026-02-27T22:15:14.764Z",
     "nome": "BlackDanger ",
-    "power": 651.93,
+    "power": 642.87,
     "classeCele": "SOBREVIV?NCIA(Survival)",
     "classeSub": "TRANS",
     "levelCele": 410,
@@ -255,7 +255,7 @@
   {
     "dataHoraCadastro": "2026-02-27T22:24:24.861Z",
     "nome": "Hitecoos",
-    "power": 631.84,
+    "power": 623.82,
     "classeCele": "NATUREZA(Nature)",
     "classeSub": "CAPTURA(Capture)",
     "levelCele": 362,
@@ -266,7 +266,7 @@
   {
     "dataHoraCadastro": "2026-03-03T22:51:35.960Z",
     "nome": "Keffra",
-    "power": 585.73,
+    "power": 576.3,
     "classeCele": "NATUREZA(Nature)",
     "classeSub": "TRANS",
     "levelCele": 425,
@@ -277,7 +277,7 @@
   {
     "dataHoraCadastro": "2026-02-28T19:49:48.770Z",
     "nome": "StarWade ",
-    "power": 562.05,
+    "power": 552.79,
     "classeCele": "SOBREVIV?NCIA(Survival)",
     "classeSub": "CAPTURA(Capture)",
     "levelCele": 413,
@@ -288,7 +288,7 @@
   {
     "dataHoraCadastro": "2026-03-04T03:58:38.920Z",
     "nome": "Osaminha",
-    "power": 534,
+    "power": 525.14,
     "classeCele": "BLACK",
     "classeSub": "NATUREZA(Nature)",
     "levelCele": 400,
@@ -299,7 +299,7 @@
   {
     "dataHoraCadastro": "2026-02-27T23:20:05.839Z",
     "nome": "-NightSoul-",
-    "power": 491.63,
+    "power": 482.71,
     "classeCele": "CONFIAN?A(Faith)",
     "classeSub": "NATUREZA(Nature)",
     "levelCele": 400,
@@ -310,7 +310,7 @@
   {
     "dataHoraCadastro": "2026-03-03T22:29:50.952Z",
     "nome": "Vagino",
-    "power": 487.83,
+    "power": 479.17,
     "classeCele": "ELEMENTAL(Element)",
     "classeSub": "BLACK",
     "levelCele": 388,
@@ -321,7 +321,7 @@
   {
     "dataHoraCadastro": "2026-03-04T02:58:00.047Z",
     "nome": "ht-bb",
-    "power": 377.47,
+    "power": 368.97,
     "classeCele": "CAPTURA(Capture)",
     "classeSub": "ESPECIAL(Special)",
     "levelCele": 399,
@@ -332,7 +332,7 @@
   {
     "dataHoraCadastro": "2026-02-27T22:02:25.248Z",
     "nome": "DecoGuitar",
-    "power": 286.62,
+    "power": 279.82,
     "classeCele": "ELEMENTAL(Element)",
     "classeSub": "BLACK",
     "levelCele": 300,
@@ -343,7 +343,7 @@
   {
     "dataHoraCadastro": "2026-03-01T19:14:23.598Z",
     "nome": "DarkBane",
-    "power": 237.9,
+    "power": 233.27,
     "classeCele": "TRANS",
     "classeSub": "SOBREVIV?NCIA(Survival)",
     "levelCele": 220,
