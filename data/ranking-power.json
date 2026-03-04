@@ -99,6 +99,17 @@
     "posicao": 9
   },
   {
+    "dataHoraCadastro": "2026-03-04T15:12:28.949Z",
+    "nome": "Keffra",
+    "power": 856.3,
+    "classeCele": "NATUREZA(Nature)",
+    "classeSub": "TRANS",
+    "levelCele": 425,
+    "levelSub": 424,
+    "guildMedal": "G1",
+    "posicao": 10
+  },
+  {
     "dataHoraCadastro": "2026-02-27T22:37:39.817Z",
     "nome": "OrionPax",
     "power": 843.17,
@@ -107,7 +118,7 @@
     "levelCele": 410,
     "levelSub": 408,
     "guildMedal": "G1",
-    "posicao": 10
+    "posicao": 11
   },
   {
     "dataHoraCadastro": "2026-03-02T20:30:58.245Z",
@@ -118,7 +129,7 @@
     "levelCele": 422,
     "levelSub": 418,
     "guildMedal": "G1",
-    "posicao": 11
+    "posicao": 12
   },
   {
     "dataHoraCadastro": "2026-03-03T22:16:38.413Z",
@@ -129,7 +140,7 @@
     "levelCele": 418,
     "levelSub": 412,
     "guildMedal": "G1",
-    "posicao": 12
+    "posicao": 13
   },
   {
     "dataHoraCadastro": "2026-03-03T22:33:05.511Z",
@@ -140,7 +151,7 @@
     "levelCele": 410,
     "levelSub": 409,
     "guildMedal": "G1",
-    "posicao": 13
+    "posicao": 14
   },
   {
     "dataHoraCadastro": "2026-03-04T04:20:44.333Z",
@@ -151,7 +162,7 @@
     "levelCele": 403,
     "levelSub": 400,
     "guildMedal": "G1",
-    "posicao": 14
+    "posicao": 15
   },
   {
     "dataHoraCadastro": "2026-02-28T00:55:10.368Z",
@@ -162,7 +173,7 @@
     "levelCele": 225,
     "levelSub": 225,
     "guildMedal": "G1",
-    "posicao": 15
+    "posicao": 16
   },
   {
     "dataHoraCadastro": "2026-03-03T22:24:50.720Z",
@@ -173,7 +184,7 @@
     "levelCele": 421,
     "levelSub": 420,
     "guildMedal": "G1",
-    "posicao": 16
+    "posicao": 17
   },
   {
     "dataHoraCadastro": "2026-02-28T01:53:52.440Z",
@@ -184,7 +195,7 @@
     "levelCele": 415,
     "levelSub": 416,
     "guildMedal": "G1",
-    "posicao": 17
+    "posicao": 18
   },
   {
     "dataHoraCadastro": "2026-03-04T04:13:57.065Z",
@@ -195,7 +206,7 @@
     "levelCele": 401,
     "levelSub": 400,
     "guildMedal": "G1",
-    "posicao": 18
+    "posicao": 19
   },
   {
     "dataHoraCadastro": "2026-03-02T22:59:18.135Z",
@@ -206,7 +217,7 @@
     "levelCele": 421,
     "levelSub": 420,
     "guildMedal": "G1",
-    "posicao": 19
+    "posicao": 20
   },
   {
     "dataHoraCadastro": "2026-02-28T13:55:50.592Z",
@@ -217,7 +228,7 @@
     "levelCele": 425,
     "levelSub": 421,
     "guildMedal": "G1",
-    "posicao": 20
+    "posicao": 21
   },
   {
     "dataHoraCadastro": "2026-03-03T22:23:48.970Z",
@@ -228,7 +239,7 @@
     "levelCele": 412,
     "levelSub": 403,
     "guildMedal": "G1",
-    "posicao": 21
+    "posicao": 22
   },
   {
     "dataHoraCadastro": "2026-03-03T23:26:26.258Z",
@@ -239,7 +250,7 @@
     "levelCele": 410,
     "levelSub": 410,
     "guildMedal": "G1",
-    "posicao": 22
+    "posicao": 23
   },
   {
     "dataHoraCadastro": "2026-02-27T22:15:14.764Z",
@@ -250,7 +261,7 @@
     "levelCele": 410,
     "levelSub": 405,
     "guildMedal": "G1",
-    "posicao": 23
+    "posicao": 24
   },
   {
     "dataHoraCadastro": "2026-02-27T22:24:24.861Z",
@@ -260,17 +271,6 @@
     "classeSub": "CAPTURA(Capture)",
     "levelCele": 362,
     "levelSub": 360,
-    "guildMedal": "G1",
-    "posicao": 24
-  },
-  {
-    "dataHoraCadastro": "2026-03-04T13:21:25.964Z",
-    "nome": "Keffra",
-    "power": 576.3,
-    "classeCele": "NATUREZA(Nature)",
-    "classeSub": "TRANS",
-    "levelCele": 425,
-    "levelSub": 424,
     "guildMedal": "G1",
     "posicao": 25
   },
