@@ -191,11 +191,11 @@
   },
   {
     "nome": "-1TACHI-",
-    "power": 727.01,
+    "power": 727.61,
     "classeCele": "NATUREZA(Nature)",
-    "classeSub": "NATUREZA(Nature)",
-    "levelCele": 400,
-    "levelSub": 395,
+    "classeSub": "TRANS",
+    "levelCele": 401,
+    "levelSub": 400,
     "guildMedal": "G1",
     "posicao": 20
   },
