@@ -160,6 +160,16 @@
     "posicao": 16
   },
   {
+    "nome": "-1TACHI-",
+    "power": 742.61,
+    "classeCele": "NATUREZA(Nature)",
+    "classeSub": "TRANS",
+    "levelCele": 401,
+    "levelSub": 400,
+    "guildMedal": "G1",
+    "posicao": 17
+  },
+  {
     "nome": "PuroVoodoo",
     "power": 733.62,
     "classeCele": "BLACK",
@@ -167,7 +177,7 @@
     "levelCele": 421,
     "levelSub": 420,
     "guildMedal": "G1",
-    "posicao": 17
+    "posicao": 18
   },
   {
     "nome": "LevYzao",
@@ -176,16 +186,6 @@
     "classeSub": "NATUREZA(Nature)",
     "levelCele": 425,
     "levelSub": 421,
-    "guildMedal": "G1",
-    "posicao": 18
-  },
-  {
-    "nome": "-1TACHI-",
-    "power": 727.61,
-    "classeCele": "NATUREZA(Nature)",
-    "classeSub": "TRANS",
-    "levelCele": 401,
-    "levelSub": 400,
     "guildMedal": "G1",
     "posicao": 19
   },
