@@ -250,6 +250,16 @@
     "posicao": 25
   },
   {
+    "nome": "Osaminha",
+    "power": 525.14,
+    "classeCele": "BLACK",
+    "classeSub": "NATUREZA(Nature)",
+    "levelCele": 400,
+    "levelSub": 397,
+    "guildMedal": "G1",
+    "posicao": 26
+  },
+  {
     "nome": "-NightSoul-",
     "power": 482.71,
     "classeCele": "CONFIAN?A(Faith)",
@@ -257,7 +267,7 @@
     "levelCele": 400,
     "levelSub": 403,
     "guildMedal": "G1",
-    "posicao": 26
+    "posicao": 27
   },
   {
     "nome": "Vagino",
@@ -267,7 +277,7 @@
     "levelCele": 388,
     "levelSub": 391,
     "guildMedal": "G1",
-    "posicao": 27
+    "posicao": 28
   },
   {
     "nome": "ht-bb",
@@ -277,7 +287,7 @@
     "levelCele": 399,
     "levelSub": 366,
     "guildMedal": "G2",
-    "posicao": 28
+    "posicao": 29
   },
   {
     "nome": "DecoGuitar",
@@ -287,7 +297,7 @@
     "levelCele": 300,
     "levelSub": 312,
     "guildMedal": "G2",
-    "posicao": 29
+    "posicao": 30
   },
   {
     "nome": "DarkBane",
@@ -297,6 +307,6 @@
     "levelCele": 220,
     "levelSub": 197,
     "guildMedal": "G2",
-    "posicao": 30
+    "posicao": 31
   }
 ]
