@@ -280,6 +280,16 @@
     "posicao": 28
   },
   {
+    "nome": "ht-bb",
+    "power": 368.97,
+    "classeCele": "CAPTURA(Capture)",
+    "classeSub": "ESPECIAL(Special)",
+    "levelCele": 399,
+    "levelSub": 366,
+    "guildMedal": "G2",
+    "posicao": 29
+  },
+  {
     "nome": "DecoGuitar",
     "power": 279.82,
     "classeCele": "ELEMENTAL(Element)",
@@ -287,7 +297,7 @@
     "levelCele": 300,
     "levelSub": 312,
     "guildMedal": "G2",
-    "posicao": 29
+    "posicao": 30
   },
   {
     "nome": "DarkBane",
@@ -297,6 +307,6 @@
     "levelCele": 220,
     "levelSub": 197,
     "guildMedal": "G2",
-    "posicao": 30
+    "posicao": 31
   }
 ]
