@@ -130,6 +130,16 @@
     "posicao": 13
   },
   {
+    "nome": "Xibilson",
+    "power": 762.82,
+    "classeCele": "CONFIAN?A(Faith)",
+    "classeSub": "BLACK",
+    "levelCele": 403,
+    "levelSub": 400,
+    "guildMedal": "G1",
+    "posicao": 14
+  },
+  {
     "nome": "Alkapone ",
     "power": 761.4,
     "classeCele": "BLACK",
@@ -137,7 +147,7 @@
     "levelCele": 225,
     "levelSub": 225,
     "guildMedal": "G1",
-    "posicao": 14
+    "posicao": 15
   },
   {
     "nome": "-Neurotoxina",
@@ -147,7 +157,7 @@
     "levelCele": 421,
     "levelSub": 420,
     "guildMedal": "G1",
-    "posicao": 15
+    "posicao": 16
   },
   {
     "nome": "Danilo-",
@@ -157,7 +167,7 @@
     "levelCele": 415,
     "levelSub": 416,
     "guildMedal": "G1",
-    "posicao": 16
+    "posicao": 17
   },
   {
     "nome": "-1TACHI-",
@@ -167,7 +177,7 @@
     "levelCele": 401,
     "levelSub": 400,
     "guildMedal": "G1",
-    "posicao": 17
+    "posicao": 18
   },
   {
     "nome": "PuroVoodoo",
@@ -177,7 +187,7 @@
     "levelCele": 421,
     "levelSub": 420,
     "guildMedal": "G1",
-    "posicao": 18
+    "posicao": 19
   },
   {
     "nome": "LevYzao",
@@ -187,7 +197,7 @@
     "levelCele": 425,
     "levelSub": 421,
     "guildMedal": "G1",
-    "posicao": 19
+    "posicao": 20
   },
   {
     "nome": "KnightGaren-",
@@ -197,7 +207,7 @@
     "levelCele": 412,
     "levelSub": 403,
     "guildMedal": "G1",
-    "posicao": 20
+    "posicao": 21
   },
   {
     "nome": "CoisaLindaBB",
@@ -207,7 +217,7 @@
     "levelCele": 410,
     "levelSub": 410,
     "guildMedal": "G1",
-    "posicao": 21
+    "posicao": 22
   },
   {
     "nome": "BlackDanger ",
@@ -217,7 +227,7 @@
     "levelCele": 410,
     "levelSub": 405,
     "guildMedal": "G1",
-    "posicao": 22
+    "posicao": 23
   },
   {
     "nome": "Hitecoos",
@@ -227,7 +237,7 @@
     "levelCele": 362,
     "levelSub": 360,
     "guildMedal": "G1",
-    "posicao": 23
+    "posicao": 24
   },
   {
     "nome": "Keffra",
@@ -237,7 +247,7 @@
     "levelCele": 425,
     "levelSub": 424,
     "guildMedal": "G1",
-    "posicao": 24
+    "posicao": 25
   },
   {
     "nome": "StarWade ",
@@ -247,7 +257,7 @@
     "levelCele": 413,
     "levelSub": 420,
     "guildMedal": "G2",
-    "posicao": 25
+    "posicao": 26
   },
   {
     "nome": "Osaminha",
@@ -257,7 +267,7 @@
     "levelCele": 400,
     "levelSub": 397,
     "guildMedal": "G1",
-    "posicao": 26
+    "posicao": 27
   },
   {
     "nome": "-NightSoul-",
@@ -267,7 +277,7 @@
     "levelCele": 400,
     "levelSub": 403,
     "guildMedal": "G1",
-    "posicao": 27
+    "posicao": 28
   },
   {
     "nome": "Vagino",
@@ -277,7 +287,7 @@
     "levelCele": 388,
     "levelSub": 391,
     "guildMedal": "G1",
-    "posicao": 28
+    "posicao": 29
   },
   {
     "nome": "ht-bb",
@@ -287,7 +297,7 @@
     "levelCele": 399,
     "levelSub": 366,
     "guildMedal": "G2",
-    "posicao": 29
+    "posicao": 30
   },
   {
     "nome": "DecoGuitar",
@@ -297,7 +307,7 @@
     "levelCele": 300,
     "levelSub": 312,
     "guildMedal": "G2",
-    "posicao": 30
+    "posicao": 31
   },
   {
     "nome": "DarkBane",
@@ -307,6 +317,6 @@
     "levelCele": 220,
     "levelSub": 197,
     "guildMedal": "G2",
-    "posicao": 31
+    "posicao": 32
   }
 ]
