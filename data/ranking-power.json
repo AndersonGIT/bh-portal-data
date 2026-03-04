@@ -165,6 +165,17 @@
     "posicao": 15
   },
   {
+    "dataHoraCadastro": "2026-03-04T20:11:56.745Z",
+    "nome": "CoisaLindaBB",
+    "power": 763.48,
+    "classeCele": "TRANS",
+    "classeSub": "TRANS",
+    "levelCele": 410,
+    "levelSub": 410,
+    "guildMedal": "G1",
+    "posicao": 16
+  },
+  {
     "dataHoraCadastro": "2026-02-28T00:55:10.368Z",
     "nome": "Alkapone ",
     "power": 761.4,
@@ -173,7 +184,7 @@
     "levelCele": 225,
     "levelSub": 225,
     "guildMedal": "G1",
-    "posicao": 16
+    "posicao": 17
   },
   {
     "dataHoraCadastro": "2026-03-04T17:17:47.531Z",
@@ -184,7 +195,7 @@
     "levelCele": 403,
     "levelSub": 400,
     "guildMedal": "G1",
-    "posicao": 17
+    "posicao": 18
   },
   {
     "dataHoraCadastro": "2026-03-03T22:24:50.720Z",
@@ -195,7 +206,7 @@
     "levelCele": 421,
     "levelSub": 420,
     "guildMedal": "G1",
-    "posicao": 18
+    "posicao": 19
   },
   {
     "dataHoraCadastro": "2026-02-28T01:53:52.440Z",
@@ -206,7 +217,7 @@
     "levelCele": 415,
     "levelSub": 416,
     "guildMedal": "G1",
-    "posicao": 19
+    "posicao": 20
   },
   {
     "dataHoraCadastro": "2026-03-04T04:13:57.065Z",
@@ -217,7 +228,7 @@
     "levelCele": 401,
     "levelSub": 400,
     "guildMedal": "G1",
-    "posicao": 20
+    "posicao": 21
   },
   {
     "dataHoraCadastro": "2026-03-02T22:59:18.135Z",
@@ -228,7 +239,7 @@
     "levelCele": 421,
     "levelSub": 420,
     "guildMedal": "G1",
-    "posicao": 21
+    "posicao": 22
   },
   {
     "dataHoraCadastro": "2026-02-28T13:55:50.592Z",
@@ -239,7 +250,7 @@
     "levelCele": 425,
     "levelSub": 421,
     "guildMedal": "G1",
-    "posicao": 22
+    "posicao": 23
   },
   {
     "dataHoraCadastro": "2026-03-03T22:23:48.970Z",
@@ -249,17 +260,6 @@
     "classeSub": "NATUREZA(Nature)",
     "levelCele": 412,
     "levelSub": 403,
-    "guildMedal": "G1",
-    "posicao": 23
-  },
-  {
-    "dataHoraCadastro": "2026-03-03T23:26:26.258Z",
-    "nome": "CoisaLindaBB",
-    "power": 648.44,
-    "classeCele": "TRANS",
-    "classeSub": "TRANS",
-    "levelCele": 410,
-    "levelSub": 410,
     "guildMedal": "G1",
     "posicao": 24
   },
