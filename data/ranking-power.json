@@ -143,6 +143,17 @@
     "posicao": 13
   },
   {
+    "dataHoraCadastro": "2026-03-05T19:09:34.480Z",
+    "nome": "Alkapone ",
+    "power": 801.6,
+    "classeCele": "BLACK",
+    "classeSub": "ESPECIAL(Special)",
+    "levelCele": 426,
+    "levelSub": 426,
+    "guildMedal": "G1",
+    "posicao": 14
+  },
+  {
     "dataHoraCadastro": "2026-03-04T17:38:44.330Z",
     "nome": "-Ravok-",
     "power": 799.53,
@@ -151,7 +162,7 @@
     "levelCele": 418,
     "levelSub": 412,
     "guildMedal": "G1",
-    "posicao": 14
+    "posicao": 15
   },
   {
     "dataHoraCadastro": "2026-03-03T22:33:05.511Z",
@@ -162,7 +173,7 @@
     "levelCele": 410,
     "levelSub": 409,
     "guildMedal": "G1",
-    "posicao": 15
+    "posicao": 16
   },
   {
     "dataHoraCadastro": "2026-03-04T20:11:56.745Z",
@@ -172,17 +183,6 @@
     "classeSub": "TRANS",
     "levelCele": 410,
     "levelSub": 410,
-    "guildMedal": "G1",
-    "posicao": 16
-  },
-  {
-    "dataHoraCadastro": "2026-02-28T00:55:10.368Z",
-    "nome": "Alkapone ",
-    "power": 761.4,
-    "classeCele": "BLACK",
-    "classeSub": "ESPECIAL(Special)",
-    "levelCele": 225,
-    "levelSub": 225,
     "guildMedal": "G1",
     "posicao": 17
   },
