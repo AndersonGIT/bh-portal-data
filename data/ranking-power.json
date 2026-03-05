@@ -198,17 +198,6 @@
     "posicao": 18
   },
   {
-    "dataHoraCadastro": "2026-03-04T17:17:47.531Z",
-    "nome": "Xibilson",
-    "power": 760.8,
-    "classeCele": "CONFIAN?A(Faith)",
-    "classeSub": "BLACK",
-    "levelCele": 403,
-    "levelSub": 400,
-    "guildMedal": "G1",
-    "posicao": 19
-  },
-  {
     "dataHoraCadastro": "2026-03-03T22:24:50.720Z",
     "nome": "-Neurotoxina",
     "power": 760.66,
@@ -217,7 +206,7 @@
     "levelCele": 421,
     "levelSub": 420,
     "guildMedal": "G1",
-    "posicao": 20
+    "posicao": 19
   },
   {
     "dataHoraCadastro": "2026-03-04T04:13:57.065Z",
@@ -228,7 +217,7 @@
     "levelCele": 401,
     "levelSub": 400,
     "guildMedal": "G1",
-    "posicao": 21
+    "posicao": 20
   },
   {
     "dataHoraCadastro": "2026-03-02T22:59:18.135Z",
@@ -239,7 +228,7 @@
     "levelCele": 421,
     "levelSub": 420,
     "guildMedal": "G1",
-    "posicao": 22
+    "posicao": 21
   },
   {
     "dataHoraCadastro": "2026-03-05T22:10:39.703Z",
@@ -250,7 +239,7 @@
     "levelCele": 425,
     "levelSub": 421,
     "guildMedal": "G1",
-    "posicao": 23
+    "posicao": 22
   },
   {
     "dataHoraCadastro": "2026-03-03T22:23:48.970Z",
@@ -260,6 +249,17 @@
     "classeSub": "NATUREZA(Nature)",
     "levelCele": 412,
     "levelSub": 403,
+    "guildMedal": "G1",
+    "posicao": 23
+  },
+  {
+    "dataHoraCadastro": "2026-03-05T23:18:16.868Z",
+    "nome": "Xibilson",
+    "power": 676.8,
+    "classeCele": "CONFIAN?A(Faith)",
+    "classeSub": "BLACK",
+    "levelCele": 403,
+    "levelSub": 400,
     "guildMedal": "G1",
     "posicao": 24
   },
