@@ -330,6 +330,17 @@
     "posicao": 30
   },
   {
+    "dataHoraCadastro": "2026-03-05T23:56:23.346Z",
+    "nome": "Vassalla13",
+    "power": 442.12,
+    "classeCele": "SOBREVIV?NCIA(Survival)",
+    "classeSub": "TRANS",
+    "levelCele": 374,
+    "levelSub": 362,
+    "guildMedal": "G2",
+    "posicao": 31
+  },
+  {
     "dataHoraCadastro": "2026-03-05T00:17:17.682Z",
     "nome": "TioTk",
     "power": 418.2,
@@ -338,7 +349,7 @@
     "levelCele": 406,
     "levelSub": 401,
     "guildMedal": "G2",
-    "posicao": 31
+    "posicao": 32
   },
   {
     "dataHoraCadastro": "2026-03-04T02:58:00.047Z",
@@ -349,7 +360,7 @@
     "levelCele": 399,
     "levelSub": 366,
     "guildMedal": "G2",
-    "posicao": 32
+    "posicao": 33
   },
   {
     "dataHoraCadastro": "2026-02-27T22:02:25.248Z",
@@ -360,7 +371,7 @@
     "levelCele": 300,
     "levelSub": 312,
     "guildMedal": "G2",
-    "posicao": 33
+    "posicao": 34
   },
   {
     "dataHoraCadastro": "2026-03-01T19:14:23.598Z",
@@ -371,6 +382,6 @@
     "levelCele": 220,
     "levelSub": 197,
     "guildMedal": "G2",
-    "posicao": 34
+    "posicao": 35
   }
 ]
