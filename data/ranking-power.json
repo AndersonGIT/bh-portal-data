@@ -165,6 +165,17 @@
     "posicao": 15
   },
   {
+    "dataHoraCadastro": "2026-03-05T21:07:48.205Z",
+    "nome": "Danilo-",
+    "power": 778.66,
+    "classeCele": "NATUREZA(Nature)",
+    "classeSub": "TRANS",
+    "levelCele": 415,
+    "levelSub": 416,
+    "guildMedal": "G1",
+    "posicao": 16
+  },
+  {
     "dataHoraCadastro": "2026-03-03T22:33:05.511Z",
     "nome": "FoRtex",
     "power": 766.4,
@@ -173,7 +184,7 @@
     "levelCele": 410,
     "levelSub": 409,
     "guildMedal": "G1",
-    "posicao": 16
+    "posicao": 17
   },
   {
     "dataHoraCadastro": "2026-03-04T20:11:56.745Z",
@@ -184,7 +195,7 @@
     "levelCele": 410,
     "levelSub": 410,
     "guildMedal": "G1",
-    "posicao": 17
+    "posicao": 18
   },
   {
     "dataHoraCadastro": "2026-03-04T17:17:47.531Z",
@@ -195,7 +206,7 @@
     "levelCele": 403,
     "levelSub": 400,
     "guildMedal": "G1",
-    "posicao": 18
+    "posicao": 19
   },
   {
     "dataHoraCadastro": "2026-03-03T22:24:50.720Z",
@@ -205,17 +216,6 @@
     "classeSub": "SOBREVIV?NCIA(Survival)",
     "levelCele": 421,
     "levelSub": 420,
-    "guildMedal": "G1",
-    "posicao": 19
-  },
-  {
-    "dataHoraCadastro": "2026-02-28T01:53:52.440Z",
-    "nome": "Danilo-",
-    "power": 759.66,
-    "classeCele": "NATUREZA(Nature)",
-    "classeSub": "TRANS",
-    "levelCele": 415,
-    "levelSub": 416,
     "guildMedal": "G1",
     "posicao": 20
   },
