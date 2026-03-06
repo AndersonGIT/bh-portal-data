@@ -143,6 +143,17 @@
     "posicao": 13
   },
   {
+    "dataHoraCadastro": "2026-03-06T06:26:28.406Z",
+    "nome": "-Ravok-",
+    "power": 827.53,
+    "classeCele": "BLACK",
+    "classeSub": "BLACK",
+    "levelCele": 418,
+    "levelSub": 412,
+    "guildMedal": "G1",
+    "posicao": 14
+  },
+  {
     "dataHoraCadastro": "2026-03-05T19:23:08.991Z",
     "nome": "Rachid",
     "power": 826.33,
@@ -151,7 +162,7 @@
     "levelCele": 422,
     "levelSub": 418,
     "guildMedal": "G1",
-    "posicao": 14
+    "posicao": 15
   },
   {
     "dataHoraCadastro": "2026-03-05T19:09:34.480Z",
@@ -161,17 +172,6 @@
     "classeSub": "ESPECIAL(Special)",
     "levelCele": 426,
     "levelSub": 426,
-    "guildMedal": "G1",
-    "posicao": 15
-  },
-  {
-    "dataHoraCadastro": "2026-03-04T17:38:44.330Z",
-    "nome": "-Ravok-",
-    "power": 799.53,
-    "classeCele": "BLACK",
-    "classeSub": "BLACK",
-    "levelCele": 418,
-    "levelSub": 412,
     "guildMedal": "G1",
     "posicao": 16
   },
