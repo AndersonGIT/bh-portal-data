@@ -22,17 +22,6 @@
     "posicao": 2
   },
   {
-    "dataHoraCadastro": "2026-02-28T03:20:39.081Z",
-    "nome": "zVoid",
-    "power": 968.6,
-    "classeCele": "SOBREVIV?NCIA(Survival)",
-    "classeSub": "CAPTURA(Capture)",
-    "levelCele": 430,
-    "levelSub": 422,
-    "guildMedal": "G1",
-    "posicao": 3
-  },
-  {
     "dataHoraCadastro": "2026-03-03T22:14:30.079Z",
     "nome": "TAQUEPARILL",
     "power": 963.11,
@@ -41,7 +30,7 @@
     "levelCele": 425,
     "levelSub": 422,
     "guildMedal": "G1",
-    "posicao": 4
+    "posicao": 3
   },
   {
     "dataHoraCadastro": "2026-03-01T17:50:55.302Z",
@@ -51,6 +40,17 @@
     "classeSub": "BLACK",
     "levelCele": 420,
     "levelSub": 423,
+    "guildMedal": "G1",
+    "posicao": 4
+  },
+  {
+    "dataHoraCadastro": "2026-03-06T02:30:42.055Z",
+    "nome": "zVoid",
+    "power": 930.52,
+    "classeCele": "SOBREVIV?NCIA(Survival)",
+    "classeSub": "NATUREZA(Nature)",
+    "levelCele": 430,
+    "levelSub": 422,
     "guildMedal": "G1",
     "posicao": 5
   },
