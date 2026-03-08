@@ -385,6 +385,17 @@
     "posicao": 35
   },
   {
+    "dataHoraCadastro": "2026-03-08T01:38:51.860Z",
+    "nome": "L1ND1NH4",
+    "power": 317.86,
+    "classeCele": "BLACK",
+    "classeSub": "ELEMENTAL(Element)",
+    "levelCele": 400,
+    "levelSub": 385,
+    "guildMedal": "G2",
+    "posicao": 36
+  },
+  {
     "dataHoraCadastro": "2026-02-27T22:02:25.248Z",
     "nome": "DecoGuitar",
     "power": 279.82,
@@ -393,7 +404,7 @@
     "levelCele": 300,
     "levelSub": 312,
     "guildMedal": "G2",
-    "posicao": 36
+    "posicao": 37
   },
   {
     "dataHoraCadastro": "2026-03-01T19:14:23.598Z",
@@ -404,6 +415,6 @@
     "levelCele": 220,
     "levelSub": 197,
     "guildMedal": "G2",
-    "posicao": 37
+    "posicao": 38
   }
 ]
