@@ -77,6 +77,17 @@
     "posicao": 7
   },
   {
+    "dataHoraCadastro": "2026-03-08T01:35:02.970Z",
+    "nome": "Nazg?ll ",
+    "power": 912.46,
+    "classeCele": "SOBREVIV?NCIA(Survival)",
+    "classeSub": "TRANS",
+    "levelCele": 410,
+    "levelSub": 410,
+    "guildMedal": "G1",
+    "posicao": 8
+  },
+  {
     "dataHoraCadastro": "2026-03-06T00:26:31.977Z",
     "nome": "-Neurotoxina",
     "power": 902.61,
@@ -84,17 +95,6 @@
     "classeSub": "SOBREVIV?NCIA(Survival)",
     "levelCele": 421,
     "levelSub": 420,
-    "guildMedal": "G1",
-    "posicao": 8
-  },
-  {
-    "dataHoraCadastro": "2026-03-03T23:34:07.923Z",
-    "nome": "Nazg?ll ",
-    "power": 900.41,
-    "classeCele": "SOBREVIV?NCIA(Survival)",
-    "classeSub": "TRANS",
-    "levelCele": 410,
-    "levelSub": 410,
     "guildMedal": "G1",
     "posicao": 9
   },
