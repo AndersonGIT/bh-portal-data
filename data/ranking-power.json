@@ -121,6 +121,17 @@
     "posicao": 11
   },
   {
+    "dataHoraCadastro": "2026-03-10T16:26:17.855Z",
+    "nome": "OrionPax",
+    "power": 868.47,
+    "classeCele": "CAPTURA(Capture)",
+    "classeSub": "SOBREVIV?NCIA(Survival)",
+    "levelCele": 411,
+    "levelSub": 410,
+    "guildMedal": "G1",
+    "posicao": 12
+  },
+  {
     "dataHoraCadastro": "2026-03-04T15:12:28.949Z",
     "nome": "Keffra",
     "power": 856.3,
@@ -128,17 +139,6 @@
     "classeSub": "TRANS",
     "levelCele": 425,
     "levelSub": 424,
-    "guildMedal": "G1",
-    "posicao": 12
-  },
-  {
-    "dataHoraCadastro": "2026-03-06T18:18:02.119Z",
-    "nome": "OrionPax",
-    "power": 843.47,
-    "classeCele": "NATUREZA(Nature)",
-    "classeSub": "SOBREVIV?NCIA(Survival)",
-    "levelCele": 411,
-    "levelSub": 410,
     "guildMedal": "G1",
     "posicao": 13
   },
