@@ -275,6 +275,17 @@
     "posicao": 25
   },
   {
+    "dataHoraCadastro": "2026-03-10T22:46:55.827Z",
+    "nome": "BlackDanger ",
+    "power": 675.85,
+    "classeCele": "SOBREVIV?NCIA(Survival)",
+    "classeSub": "TRANS",
+    "levelCele": 410,
+    "levelSub": 405,
+    "guildMedal": "G1",
+    "posicao": 26
+  },
+  {
     "dataHoraCadastro": "2026-03-08T21:49:44.640Z",
     "nome": "Goudenlionn",
     "power": 660.03,
@@ -282,17 +293,6 @@
     "classeSub": "SOBREVIV?NCIA(Survival)",
     "levelCele": 420,
     "levelSub": 419,
-    "guildMedal": "G1",
-    "posicao": 26
-  },
-  {
-    "dataHoraCadastro": "2026-02-27T22:15:14.764Z",
-    "nome": "BlackDanger ",
-    "power": 642.87,
-    "classeCele": "SOBREVIV?NCIA(Survival)",
-    "classeSub": "TRANS",
-    "levelCele": 410,
-    "levelSub": 405,
     "guildMedal": "G1",
     "posicao": 27
   },
