@@ -438,5 +438,16 @@
     "levelSub": 197,
     "guildMedal": "G2",
     "posicao": 40
+  },
+  {
+    "dataHoraCadastro": "2026-03-11T12:05:43.075Z",
+    "nome": "iinsis",
+    "power": 232.53,
+    "classeCele": "TRANS",
+    "classeSub": "NATUREZA(Nature)",
+    "levelCele": 259,
+    "levelSub": 240,
+    "guildMedal": "G2",
+    "posicao": 41
   }
 ]
