@@ -187,6 +187,17 @@
     "posicao": 17
   },
   {
+    "dataHoraCadastro": "2026-03-14T18:53:08.968Z",
+    "nome": "BlackDanger ",
+    "power": 773.03,
+    "classeCele": "NATUREZA(Nature)",
+    "classeSub": "TRANS",
+    "levelCele": 411,
+    "levelSub": 406,
+    "guildMedal": "G1",
+    "posicao": 18
+  },
+  {
     "dataHoraCadastro": "2026-03-06T01:13:44.983Z",
     "nome": "CoisaLindaBB",
     "power": 768.48,
@@ -195,7 +206,7 @@
     "levelCele": 410,
     "levelSub": 410,
     "guildMedal": "G1",
-    "posicao": 18
+    "posicao": 19
   },
   {
     "dataHoraCadastro": "2026-03-08T15:41:19.273Z",
@@ -206,7 +217,7 @@
     "levelCele": 401,
     "levelSub": 402,
     "guildMedal": "G1",
-    "posicao": 19
+    "posicao": 20
   },
   {
     "dataHoraCadastro": "2026-03-02T22:59:18.135Z",
@@ -217,7 +228,7 @@
     "levelCele": 421,
     "levelSub": 420,
     "guildMedal": "G1",
-    "posicao": 20
+    "posicao": 21
   },
   {
     "dataHoraCadastro": "2026-03-06T01:40:19.297Z",
@@ -228,7 +239,7 @@
     "levelCele": 425,
     "levelSub": 421,
     "guildMedal": "G1",
-    "posicao": 21
+    "posicao": 22
   },
   {
     "dataHoraCadastro": "2026-03-06T18:19:05.144Z",
@@ -239,7 +250,7 @@
     "levelCele": 410,
     "levelSub": 410,
     "guildMedal": "G1",
-    "posicao": 22
+    "posicao": 23
   },
   {
     "dataHoraCadastro": "2026-03-03T22:23:48.970Z",
@@ -250,7 +261,7 @@
     "levelCele": 412,
     "levelSub": 403,
     "guildMedal": "G1",
-    "posicao": 23
+    "posicao": 24
   },
   {
     "dataHoraCadastro": "2026-03-08T01:39:59.207Z",
@@ -261,7 +272,7 @@
     "levelCele": 413,
     "levelSub": 411,
     "guildMedal": "G1",
-    "posicao": 24
+    "posicao": 25
   },
   {
     "dataHoraCadastro": "2026-03-10T19:20:49.269Z",
@@ -271,17 +282,6 @@
     "classeSub": "BLACK",
     "levelCele": 403,
     "levelSub": 402,
-    "guildMedal": "G1",
-    "posicao": 25
-  },
-  {
-    "dataHoraCadastro": "2026-03-10T22:46:55.827Z",
-    "nome": "BlackDanger ",
-    "power": 675.85,
-    "classeCele": "SOBREVIV?NCIA(Survival)",
-    "classeSub": "TRANS",
-    "levelCele": 410,
-    "levelSub": 405,
     "guildMedal": "G1",
     "posicao": 26
   },
