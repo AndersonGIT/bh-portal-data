@@ -308,6 +308,17 @@
     "posicao": 28
   },
   {
+    "dataHoraCadastro": "2026-03-17T23:51:49.580Z",
+    "nome": "TioTk",
+    "power": 582.6,
+    "classeCele": "BLACK",
+    "classeSub": "CONFIAN?A(Faith)",
+    "levelCele": 410,
+    "levelSub": 401,
+    "guildMedal": "G2",
+    "posicao": 29
+  },
+  {
     "dataHoraCadastro": "2026-02-28T19:49:48.770Z",
     "nome": "StarWade ",
     "power": 552.79,
@@ -316,7 +327,7 @@
     "levelCele": 413,
     "levelSub": 420,
     "guildMedal": "G2",
-    "posicao": 29
+    "posicao": 30
   },
   {
     "dataHoraCadastro": "2026-03-04T03:58:38.920Z",
@@ -327,7 +338,7 @@
     "levelCele": 400,
     "levelSub": 397,
     "guildMedal": "G1",
-    "posicao": 30
+    "posicao": 31
   },
   {
     "dataHoraCadastro": "2026-02-27T23:20:05.839Z",
@@ -338,7 +349,7 @@
     "levelCele": 400,
     "levelSub": 403,
     "guildMedal": "G1",
-    "posicao": 31
+    "posicao": 32
   },
   {
     "dataHoraCadastro": "2026-03-03T22:29:50.952Z",
@@ -349,7 +360,7 @@
     "levelCele": 388,
     "levelSub": 391,
     "guildMedal": "G1",
-    "posicao": 32
+    "posicao": 33
   },
   {
     "dataHoraCadastro": "2026-03-05T23:56:23.346Z",
@@ -359,17 +370,6 @@
     "classeSub": "TRANS",
     "levelCele": 374,
     "levelSub": 362,
-    "guildMedal": "G2",
-    "posicao": 33
-  },
-  {
-    "dataHoraCadastro": "2026-03-06T19:16:07.917Z",
-    "nome": "TioTk",
-    "power": 440.2,
-    "classeCele": "BLACK",
-    "classeSub": "CONFIAN?A(Faith)",
-    "levelCele": 406,
-    "levelSub": 401,
     "guildMedal": "G2",
     "posicao": 34
   },
