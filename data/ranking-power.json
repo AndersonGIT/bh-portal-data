@@ -66,17 +66,6 @@
     "posicao": 6
   },
   {
-    "dataHoraCadastro": "2026-03-08T01:17:30.500Z",
-    "nome": "SheelVPower",
-    "power": 923.92,
-    "classeCele": "NATUREZA(Nature)",
-    "classeSub": "TRANS",
-    "levelCele": 422,
-    "levelSub": 422,
-    "guildMedal": "G1",
-    "posicao": 7
-  },
-  {
     "dataHoraCadastro": "2026-03-03T23:10:04.231Z",
     "nome": "Bigods",
     "power": 914.9,
@@ -85,7 +74,7 @@
     "levelCele": 432,
     "levelSub": 427,
     "guildMedal": "G1",
-    "posicao": 8
+    "posicao": 7
   },
   {
     "dataHoraCadastro": "2026-03-08T01:35:02.970Z",
@@ -95,6 +84,17 @@
     "classeSub": "TRANS",
     "levelCele": 410,
     "levelSub": 410,
+    "guildMedal": "G1",
+    "posicao": 8
+  },
+  {
+    "dataHoraCadastro": "2026-03-18T21:52:14.547Z",
+    "nome": "SheelVPower",
+    "power": 903.9,
+    "classeCele": "NATUREZA(Nature)",
+    "classeSub": "TRANS",
+    "levelCele": 424,
+    "levelSub": 422,
     "guildMedal": "G1",
     "posicao": 9
   },
