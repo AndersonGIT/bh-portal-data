@@ -374,6 +374,17 @@
     "posicao": 34
   },
   {
+    "dataHoraCadastro": "2026-03-18T12:20:20.736Z",
+    "nome": "lDuende",
+    "power": 471.48,
+    "classeCele": "BLACK",
+    "classeSub": "EVOCA?AO(Summon)",
+    "levelCele": 400,
+    "levelSub": 400,
+    "guildMedal": "G2",
+    "posicao": 35
+  },
+  {
     "dataHoraCadastro": "2026-03-05T23:56:23.346Z",
     "nome": "Vassalla13",
     "power": 442.12,
@@ -382,7 +393,7 @@
     "levelCele": 374,
     "levelSub": 362,
     "guildMedal": "G2",
-    "posicao": 35
+    "posicao": 36
   },
   {
     "dataHoraCadastro": "2026-03-06T01:39:07.818Z",
@@ -392,17 +403,6 @@
     "classeSub": "CAPTURA(Capture)",
     "levelCele": 240,
     "levelSub": 230,
-    "guildMedal": "G2",
-    "posicao": 36
-  },
-  {
-    "dataHoraCadastro": "2026-03-06T21:52:07.423Z",
-    "nome": "lDuende",
-    "power": 412.56,
-    "classeCele": "BLACK",
-    "classeSub": "EVOCA?AO(Summon)",
-    "levelCele": 391,
-    "levelSub": 390,
     "guildMedal": "G2",
     "posicao": 37
   },
