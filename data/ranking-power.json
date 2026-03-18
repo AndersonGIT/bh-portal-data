@@ -110,17 +110,6 @@
     "posicao": 10
   },
   {
-    "dataHoraCadastro": "2026-02-28T00:24:41.235Z",
-    "nome": "zHuntin",
-    "power": 900.03,
-    "classeCele": "NATUREZA(Nature)",
-    "classeSub": "CAPTURA(Capture)",
-    "levelCele": 430,
-    "levelSub": 425,
-    "guildMedal": "G1",
-    "posicao": 11
-  },
-  {
     "dataHoraCadastro": "2026-02-28T17:11:03.555Z",
     "nome": "Teiker",
     "power": 881.34,
@@ -129,7 +118,7 @@
     "levelCele": 400,
     "levelSub": 409,
     "guildMedal": "G1",
-    "posicao": 12
+    "posicao": 11
   },
   {
     "dataHoraCadastro": "2026-03-17T12:16:26.307Z",
@@ -140,7 +129,7 @@
     "levelCele": 413,
     "levelSub": 410,
     "guildMedal": "G1",
-    "posicao": 13
+    "posicao": 12
   },
   {
     "dataHoraCadastro": "2026-03-04T15:12:28.949Z",
@@ -151,7 +140,7 @@
     "levelCele": 425,
     "levelSub": 424,
     "guildMedal": "G1",
-    "posicao": 14
+    "posicao": 13
   },
   {
     "dataHoraCadastro": "2026-03-06T18:00:29.883Z",
@@ -162,7 +151,7 @@
     "levelCele": 422,
     "levelSub": 418,
     "guildMedal": "G1",
-    "posicao": 15
+    "posicao": 14
   },
   {
     "dataHoraCadastro": "2026-03-06T06:33:05.971Z",
@@ -171,6 +160,17 @@
     "classeCele": "BLACK",
     "classeSub": "BLACK",
     "levelCele": 418,
+    "levelSub": 414,
+    "guildMedal": "G1",
+    "posicao": 15
+  },
+  {
+    "dataHoraCadastro": "2026-03-18T11:56:22.260Z",
+    "nome": "RessMachine",
+    "power": 827.03,
+    "classeCele": "BRANCA(White)",
+    "classeSub": "TRANS",
+    "levelCele": 411,
     "levelSub": 414,
     "guildMedal": "G1",
     "posicao": 16
