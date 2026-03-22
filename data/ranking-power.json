@@ -22,6 +22,17 @@
     "posicao": 2
   },
   {
+    "dataHoraCadastro": "2026-03-22T14:24:48.690Z",
+    "nome": "SheelVPower",
+    "power": 972,
+    "classeCele": "NATUREZA(Nature)",
+    "classeSub": "TRANS",
+    "levelCele": 424,
+    "levelSub": 423,
+    "guildMedal": "G1",
+    "posicao": 3
+  },
+  {
     "dataHoraCadastro": "2026-03-18T11:42:24.717Z",
     "nome": "FearPutifero",
     "power": 965.44,
@@ -30,7 +41,7 @@
     "levelCele": 421,
     "levelSub": 422,
     "guildMedal": "G1",
-    "posicao": 3
+    "posicao": 4
   },
   {
     "dataHoraCadastro": "2026-03-03T22:14:30.079Z",
@@ -41,7 +52,7 @@
     "levelCele": 425,
     "levelSub": 422,
     "guildMedal": "G1",
-    "posicao": 4
+    "posicao": 5
   },
   {
     "dataHoraCadastro": "2026-03-01T17:50:55.302Z",
@@ -51,17 +62,6 @@
     "classeSub": "BLACK",
     "levelCele": 420,
     "levelSub": 423,
-    "guildMedal": "G1",
-    "posicao": 5
-  },
-  {
-    "dataHoraCadastro": "2026-03-18T22:52:12.758Z",
-    "nome": "SheelVPower",
-    "power": 946.9,
-    "classeCele": "NATUREZA(Nature)",
-    "classeSub": "TRANS",
-    "levelCele": 424,
-    "levelSub": 422,
     "guildMedal": "G1",
     "posicao": 6
   },
