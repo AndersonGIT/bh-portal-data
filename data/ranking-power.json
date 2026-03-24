@@ -220,17 +220,6 @@
     "posicao": 20
   },
   {
-    "dataHoraCadastro": "2026-03-08T15:41:19.273Z",
-    "nome": "-1TACHI-",
-    "power": 763.76,
-    "classeCele": "NATUREZA(Nature)",
-    "classeSub": "TRANS",
-    "levelCele": 401,
-    "levelSub": 402,
-    "guildMedal": "G1",
-    "posicao": 21
-  },
-  {
     "dataHoraCadastro": "2026-03-02T22:59:18.135Z",
     "nome": "PuroVoodoo",
     "power": 733.62,
@@ -239,7 +228,7 @@
     "levelCele": 421,
     "levelSub": 420,
     "guildMedal": "G1",
-    "posicao": 22
+    "posicao": 21
   },
   {
     "dataHoraCadastro": "2026-03-06T01:40:19.297Z",
@@ -250,7 +239,7 @@
     "levelCele": 425,
     "levelSub": 421,
     "guildMedal": "G1",
-    "posicao": 23
+    "posicao": 22
   },
   {
     "dataHoraCadastro": "2026-03-06T18:19:05.144Z",
@@ -260,6 +249,17 @@
     "classeSub": "SOBREVIV?NCIA(Survival)",
     "levelCele": 410,
     "levelSub": 410,
+    "guildMedal": "G1",
+    "posicao": 23
+  },
+  {
+    "dataHoraCadastro": "2026-03-24T18:00:53.537Z",
+    "nome": "-1TACHI-",
+    "power": 712.61,
+    "classeCele": "NATUREZA(Nature)",
+    "classeSub": "SOBREVIV?NCIA(Survival)",
+    "levelCele": 404,
+    "levelSub": 407,
     "guildMedal": "G1",
     "posicao": 24
   },
