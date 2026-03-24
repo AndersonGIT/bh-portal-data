@@ -66,6 +66,17 @@
     "posicao": 6
   },
   {
+    "dataHoraCadastro": "2026-03-24T17:40:55.867Z",
+    "nome": "OrionPax",
+    "power": 944.7,
+    "classeCele": "CAPTURA(Capture)",
+    "classeSub": "SOBREVIV?NCIA(Survival)",
+    "levelCele": 414,
+    "levelSub": 410,
+    "guildMedal": "G1",
+    "posicao": 7
+  },
+  {
     "dataHoraCadastro": "2026-03-16T13:56:08.834Z",
     "nome": "zVoid",
     "power": 933.65,
@@ -74,7 +85,7 @@
     "levelCele": 430,
     "levelSub": 424,
     "guildMedal": "G1",
-    "posicao": 7
+    "posicao": 8
   },
   {
     "dataHoraCadastro": "2026-03-03T23:10:04.231Z",
@@ -85,7 +96,7 @@
     "levelCele": 432,
     "levelSub": 427,
     "guildMedal": "G1",
-    "posicao": 8
+    "posicao": 9
   },
   {
     "dataHoraCadastro": "2026-03-08T01:35:02.970Z",
@@ -96,7 +107,7 @@
     "levelCele": 410,
     "levelSub": 410,
     "guildMedal": "G1",
-    "posicao": 9
+    "posicao": 10
   },
   {
     "dataHoraCadastro": "2026-03-06T00:26:31.977Z",
@@ -107,7 +118,7 @@
     "levelCele": 421,
     "levelSub": 420,
     "guildMedal": "G1",
-    "posicao": 10
+    "posicao": 11
   },
   {
     "dataHoraCadastro": "2026-02-28T17:11:03.555Z",
@@ -117,17 +128,6 @@
     "classeSub": "NATUREZA(Nature)",
     "levelCele": 400,
     "levelSub": 409,
-    "guildMedal": "G1",
-    "posicao": 11
-  },
-  {
-    "dataHoraCadastro": "2026-03-17T12:16:26.307Z",
-    "nome": "OrionPax",
-    "power": 871.6,
-    "classeCele": "CAPTURA(Capture)",
-    "classeSub": "SOBREVIV?NCIA(Survival)",
-    "levelCele": 413,
-    "levelSub": 410,
     "guildMedal": "G1",
     "posicao": 12
   },
