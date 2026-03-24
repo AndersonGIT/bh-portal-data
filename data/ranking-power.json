@@ -176,17 +176,6 @@
     "posicao": 16
   },
   {
-    "dataHoraCadastro": "2026-03-08T01:53:03.883Z",
-    "nome": "Alkapone ",
-    "power": 811.53,
-    "classeCele": "BLACK",
-    "classeSub": "ESPECIAL(Special)",
-    "levelCele": 426,
-    "levelSub": 425,
-    "guildMedal": "G1",
-    "posicao": 17
-  },
-  {
     "dataHoraCadastro": "2026-03-18T11:46:49.017Z",
     "nome": "CoisaLindaBB",
     "power": 788.78,
@@ -194,6 +183,17 @@
     "classeSub": "TRANS",
     "levelCele": 410,
     "levelSub": 413,
+    "guildMedal": "G1",
+    "posicao": 17
+  },
+  {
+    "dataHoraCadastro": "2026-03-24T17:45:07.065Z",
+    "nome": "Alkapone ",
+    "power": 786.29,
+    "classeCele": "BLACK",
+    "classeSub": "ESPECIAL(Special)",
+    "levelCele": 430,
+    "levelSub": 429,
     "guildMedal": "G1",
     "posicao": 18
   },
