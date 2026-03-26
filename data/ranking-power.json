@@ -220,6 +220,17 @@
     "posicao": 20
   },
   {
+    "dataHoraCadastro": "2026-03-26T00:10:39.743Z",
+    "nome": "LevYzao",
+    "power": 757.12,
+    "classeCele": "SOBREVIV?NCIA(Survival)",
+    "classeSub": "NATUREZA(Nature)",
+    "levelCele": 425,
+    "levelSub": 421,
+    "guildMedal": "G1",
+    "posicao": 21
+  },
+  {
     "dataHoraCadastro": "2026-03-25T00:17:24.938Z",
     "nome": "PuroVoodoo",
     "power": 748.62,
@@ -227,17 +238,6 @@
     "classeSub": "BLACK",
     "levelCele": 421,
     "levelSub": 420,
-    "guildMedal": "G1",
-    "posicao": 21
-  },
-  {
-    "dataHoraCadastro": "2026-03-06T01:40:19.297Z",
-    "nome": "LevYzao",
-    "power": 733.03,
-    "classeCele": "SOBREVIV?NCIA(Survival)",
-    "classeSub": "NATUREZA(Nature)",
-    "levelCele": 425,
-    "levelSub": 421,
     "guildMedal": "G1",
     "posicao": 22
   },
