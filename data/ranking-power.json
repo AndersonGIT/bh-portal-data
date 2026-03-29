@@ -297,6 +297,17 @@
     "posicao": 27
   },
   {
+    "dataHoraCadastro": "2026-03-29T02:23:18.600Z",
+    "nome": "TioTk",
+    "power": 667.87,
+    "classeCele": "BLACK",
+    "classeSub": "CONFIAN?A(Faith)",
+    "levelCele": 412,
+    "levelSub": 402,
+    "guildMedal": "G2",
+    "posicao": 28
+  },
+  {
     "dataHoraCadastro": "2026-03-08T21:49:44.640Z",
     "nome": "Goudenlionn",
     "power": 660.03,
@@ -305,7 +316,7 @@
     "levelCele": 420,
     "levelSub": 419,
     "guildMedal": "G1",
-    "posicao": 28
+    "posicao": 29
   },
   {
     "dataHoraCadastro": "2026-03-19T03:12:14.872Z",
@@ -316,17 +327,6 @@
     "levelCele": 372,
     "levelSub": 360,
     "guildMedal": "G1",
-    "posicao": 29
-  },
-  {
-    "dataHoraCadastro": "2026-03-26T22:57:33.642Z",
-    "nome": "TioTk",
-    "power": 632.72,
-    "classeCele": "BLACK",
-    "classeSub": "CONFIAN?A(Faith)",
-    "levelCele": 411,
-    "levelSub": 402,
-    "guildMedal": "G2",
     "posicao": 30
   },
   {
