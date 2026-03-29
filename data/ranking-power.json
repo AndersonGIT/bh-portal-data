@@ -176,6 +176,17 @@
     "posicao": 16
   },
   {
+    "dataHoraCadastro": "2026-03-29T10:12:48.441Z",
+    "nome": "Danilo-",
+    "power": 790.22,
+    "classeCele": "NATUREZA(Nature)",
+    "classeSub": "TRANS",
+    "levelCele": 419,
+    "levelSub": 419,
+    "guildMedal": "G1",
+    "posicao": 17
+  },
+  {
     "dataHoraCadastro": "2026-03-18T11:46:49.017Z",
     "nome": "CoisaLindaBB",
     "power": 788.78,
@@ -184,7 +195,7 @@
     "levelCele": 410,
     "levelSub": 413,
     "guildMedal": "G1",
-    "posicao": 17
+    "posicao": 18
   },
   {
     "dataHoraCadastro": "2026-03-24T17:50:40.896Z",
@@ -194,17 +205,6 @@
     "classeSub": "ESPECIAL(Special)",
     "levelCele": 430,
     "levelSub": 429,
-    "guildMedal": "G1",
-    "posicao": 18
-  },
-  {
-    "dataHoraCadastro": "2026-03-14T18:04:39.143Z",
-    "nome": "Danilo-",
-    "power": 781.89,
-    "classeCele": "NATUREZA(Nature)",
-    "classeSub": "TRANS",
-    "levelCele": 417,
-    "levelSub": 417,
     "guildMedal": "G1",
     "posicao": 19
   },
