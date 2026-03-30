@@ -374,6 +374,17 @@
     "posicao": 34
   },
   {
+    "dataHoraCadastro": "2026-03-30T11:40:22.029Z",
+    "nome": "lDuende",
+    "power": 498.15,
+    "classeCele": "BLACK",
+    "classeSub": "EVOCA?AO(Summon)",
+    "levelCele": 406,
+    "levelSub": 400,
+    "guildMedal": "G2",
+    "posicao": 35
+  },
+  {
     "dataHoraCadastro": "2026-02-27T23:20:05.839Z",
     "nome": "-NightSoul-",
     "power": 482.71,
@@ -382,7 +393,7 @@
     "levelCele": 400,
     "levelSub": 403,
     "guildMedal": "G1",
-    "posicao": 35
+    "posicao": 36
   },
   {
     "dataHoraCadastro": "2026-03-03T22:29:50.952Z",
@@ -393,17 +404,6 @@
     "levelCele": 388,
     "levelSub": 391,
     "guildMedal": "G1",
-    "posicao": 36
-  },
-  {
-    "dataHoraCadastro": "2026-03-18T12:20:20.736Z",
-    "nome": "lDuende",
-    "power": 471.48,
-    "classeCele": "BLACK",
-    "classeSub": "EVOCA?AO(Summon)",
-    "levelCele": 400,
-    "levelSub": 400,
-    "guildMedal": "G2",
     "posicao": 37
   },
   {
