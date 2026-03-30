@@ -341,6 +341,17 @@
     "posicao": 31
   },
   {
+    "dataHoraCadastro": "2026-03-30T11:33:49.489Z",
+    "nome": "aiaigostoso",
+    "power": 554.53,
+    "classeCele": "BRANCA(White)",
+    "classeSub": "EVOCA?AO(Summon)",
+    "levelCele": 380,
+    "levelSub": 380,
+    "guildMedal": "G1",
+    "posicao": 32
+  },
+  {
     "dataHoraCadastro": "2026-03-18T11:47:54.034Z",
     "nome": "StarWade ",
     "power": 541.72,
@@ -349,7 +360,7 @@
     "levelCele": 413,
     "levelSub": 420,
     "guildMedal": "G1",
-    "posicao": 32
+    "posicao": 33
   },
   {
     "dataHoraCadastro": "2026-03-04T03:58:38.920Z",
@@ -360,7 +371,7 @@
     "levelCele": 400,
     "levelSub": 397,
     "guildMedal": "G1",
-    "posicao": 33
+    "posicao": 34
   },
   {
     "dataHoraCadastro": "2026-02-27T23:20:05.839Z",
@@ -371,7 +382,7 @@
     "levelCele": 400,
     "levelSub": 403,
     "guildMedal": "G1",
-    "posicao": 34
+    "posicao": 35
   },
   {
     "dataHoraCadastro": "2026-03-03T22:29:50.952Z",
@@ -382,7 +393,7 @@
     "levelCele": 388,
     "levelSub": 391,
     "guildMedal": "G1",
-    "posicao": 35
+    "posicao": 36
   },
   {
     "dataHoraCadastro": "2026-03-18T12:20:20.736Z",
@@ -393,7 +404,7 @@
     "levelCele": 400,
     "levelSub": 400,
     "guildMedal": "G2",
-    "posicao": 36
+    "posicao": 37
   },
   {
     "dataHoraCadastro": "2026-03-05T23:56:23.346Z",
@@ -403,17 +414,6 @@
     "classeSub": "TRANS",
     "levelCele": 374,
     "levelSub": 362,
-    "guildMedal": "G2",
-    "posicao": 37
-  },
-  {
-    "dataHoraCadastro": "2026-03-24T17:46:21.454Z",
-    "nome": "aiaigostoso",
-    "power": 441.62,
-    "classeCele": "BRANCA(White)",
-    "classeSub": "EVOCA?AO(Summon)",
-    "levelCele": 370,
-    "levelSub": 370,
     "guildMedal": "G2",
     "posicao": 38
   },
