@@ -176,6 +176,17 @@
     "posicao": 16
   },
   {
+    "dataHoraCadastro": "2026-03-31T17:45:54.592Z",
+    "nome": "Alkapone ",
+    "power": 819.27,
+    "classeCele": "BLACK",
+    "classeSub": "ESPECIAL(Special)",
+    "levelCele": 430,
+    "levelSub": 429,
+    "guildMedal": "G1",
+    "posicao": 17
+  },
+  {
     "dataHoraCadastro": "2026-03-30T02:46:45.128Z",
     "nome": "Danilo-",
     "power": 793.15,
@@ -184,7 +195,7 @@
     "levelCele": 419,
     "levelSub": 419,
     "guildMedal": "G1",
-    "posicao": 17
+    "posicao": 18
   },
   {
     "dataHoraCadastro": "2026-03-18T11:46:49.017Z",
@@ -194,17 +205,6 @@
     "classeSub": "TRANS",
     "levelCele": 410,
     "levelSub": 413,
-    "guildMedal": "G1",
-    "posicao": 18
-  },
-  {
-    "dataHoraCadastro": "2026-03-24T17:50:40.896Z",
-    "nome": "Alkapone ",
-    "power": 786.29,
-    "classeCele": "BLACK",
-    "classeSub": "ESPECIAL(Special)",
-    "levelCele": 430,
-    "levelSub": 429,
     "guildMedal": "G1",
     "posicao": 19
   },
