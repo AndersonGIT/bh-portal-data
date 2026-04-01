@@ -22,6 +22,17 @@
     "posicao": 2
   },
   {
+    "dataHoraCadastro": "2026-04-01T22:04:18.361Z",
+    "nome": "zVoid",
+    "power": 986.83,
+    "classeCele": "SOBREVIV?NCIA(Survival)",
+    "classeSub": "NATUREZA(Nature)",
+    "levelCele": 430,
+    "levelSub": 426,
+    "guildMedal": "G1",
+    "posicao": 3
+  },
+  {
     "dataHoraCadastro": "2026-03-22T14:24:48.690Z",
     "nome": "SheelVPower",
     "power": 972,
@@ -30,7 +41,7 @@
     "levelCele": 424,
     "levelSub": 423,
     "guildMedal": "G1",
-    "posicao": 3
+    "posicao": 4
   },
   {
     "dataHoraCadastro": "2026-03-18T11:42:24.717Z",
@@ -41,7 +52,7 @@
     "levelCele": 421,
     "levelSub": 422,
     "guildMedal": "G1",
-    "posicao": 4
+    "posicao": 5
   },
   {
     "dataHoraCadastro": "2026-03-30T23:12:00.357Z",
@@ -52,7 +63,7 @@
     "levelCele": 423,
     "levelSub": 424,
     "guildMedal": "G1",
-    "posicao": 5
+    "posicao": 6
   },
   {
     "dataHoraCadastro": "2026-03-03T22:14:30.079Z",
@@ -63,7 +74,7 @@
     "levelCele": 425,
     "levelSub": 422,
     "guildMedal": "G1",
-    "posicao": 6
+    "posicao": 7
   },
   {
     "dataHoraCadastro": "2026-03-31T17:46:41.495Z",
@@ -73,17 +84,6 @@
     "classeSub": "SOBREVIV?NCIA(Survival)",
     "levelCele": 414,
     "levelSub": 410,
-    "guildMedal": "G1",
-    "posicao": 7
-  },
-  {
-    "dataHoraCadastro": "2026-03-16T13:56:08.834Z",
-    "nome": "zVoid",
-    "power": 933.65,
-    "classeCele": "SOBREVIV?NCIA(Survival)",
-    "classeSub": "NATUREZA(Nature)",
-    "levelCele": 430,
-    "levelSub": 424,
     "guildMedal": "G1",
     "posicao": 8
   },
