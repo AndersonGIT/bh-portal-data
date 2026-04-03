@@ -44,6 +44,17 @@
     "posicao": 4
   },
   {
+    "dataHoraCadastro": "2026-04-03T09:02:35.769Z",
+    "nome": "RADIOHEAD ",
+    "power": 967.03,
+    "classeCele": "CONFIAN?A(Faith)",
+    "classeSub": "BLACK",
+    "levelCele": 423,
+    "levelSub": 424,
+    "guildMedal": "G1",
+    "posicao": 5
+  },
+  {
     "dataHoraCadastro": "2026-03-18T11:42:24.717Z",
     "nome": "FearPutifero",
     "power": 965.44,
@@ -51,17 +62,6 @@
     "classeSub": "NATUREZA(Nature)",
     "levelCele": 421,
     "levelSub": 422,
-    "guildMedal": "G1",
-    "posicao": 5
-  },
-  {
-    "dataHoraCadastro": "2026-03-30T23:12:00.357Z",
-    "nome": "RADIOHEAD ",
-    "power": 964.1,
-    "classeCele": "CONFIAN?A(Faith)",
-    "classeSub": "BLACK",
-    "levelCele": 423,
-    "levelSub": 424,
     "guildMedal": "G1",
     "posicao": 6
   },
