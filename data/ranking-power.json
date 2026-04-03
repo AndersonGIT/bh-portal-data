@@ -143,6 +143,17 @@
     "posicao": 13
   },
   {
+    "dataHoraCadastro": "2026-04-03T14:09:01.024Z",
+    "nome": "Danilo-",
+    "power": 853.37,
+    "classeCele": "NATUREZA(Nature)",
+    "classeSub": "TRANS",
+    "levelCele": 420,
+    "levelSub": 420,
+    "guildMedal": "G1",
+    "posicao": 14
+  },
+  {
     "dataHoraCadastro": "2026-03-06T18:00:29.883Z",
     "nome": "Rachid",
     "power": 830.31,
@@ -151,7 +162,7 @@
     "levelCele": 422,
     "levelSub": 418,
     "guildMedal": "G1",
-    "posicao": 14
+    "posicao": 15
   },
   {
     "dataHoraCadastro": "2026-03-06T06:33:05.971Z",
@@ -162,7 +173,7 @@
     "levelCele": 418,
     "levelSub": 414,
     "guildMedal": "G1",
-    "posicao": 15
+    "posicao": 16
   },
   {
     "dataHoraCadastro": "2026-03-18T11:56:22.260Z",
@@ -173,7 +184,7 @@
     "levelCele": 411,
     "levelSub": 414,
     "guildMedal": "G1",
-    "posicao": 16
+    "posicao": 17
   },
   {
     "dataHoraCadastro": "2026-03-31T17:45:54.592Z",
@@ -183,17 +194,6 @@
     "classeSub": "ESPECIAL(Special)",
     "levelCele": 430,
     "levelSub": 429,
-    "guildMedal": "G1",
-    "posicao": 17
-  },
-  {
-    "dataHoraCadastro": "2026-03-31T20:05:38.577Z",
-    "nome": "Danilo-",
-    "power": 795.17,
-    "classeCele": "NATUREZA(Nature)",
-    "classeSub": "TRANS",
-    "levelCele": 419,
-    "levelSub": 419,
     "guildMedal": "G1",
     "posicao": 18
   },
