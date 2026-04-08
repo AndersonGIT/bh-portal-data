@@ -374,6 +374,17 @@
     "posicao": 34
   },
   {
+    "dataHoraCadastro": "2026-04-08T17:26:18.010Z",
+    "nome": "Vassalla13",
+    "power": 521.75,
+    "classeCele": "SOBREVIV?NCIA(Survival)",
+    "classeSub": "TRANS",
+    "levelCele": 380,
+    "levelSub": 372,
+    "guildMedal": "G1",
+    "posicao": 35
+  },
+  {
     "dataHoraCadastro": "2026-03-30T11:40:22.029Z",
     "nome": "lDuende",
     "power": 498.15,
@@ -382,7 +393,7 @@
     "levelCele": 406,
     "levelSub": 400,
     "guildMedal": "G2",
-    "posicao": 35
+    "posicao": 36
   },
   {
     "dataHoraCadastro": "2026-02-27T23:20:05.839Z",
@@ -393,7 +404,7 @@
     "levelCele": 400,
     "levelSub": 403,
     "guildMedal": "G1",
-    "posicao": 36
+    "posicao": 37
   },
   {
     "dataHoraCadastro": "2026-03-03T22:29:50.952Z",
@@ -404,17 +415,6 @@
     "levelCele": 388,
     "levelSub": 391,
     "guildMedal": "G1",
-    "posicao": 37
-  },
-  {
-    "dataHoraCadastro": "2026-03-05T23:56:23.346Z",
-    "nome": "Vassalla13",
-    "power": 442.12,
-    "classeCele": "SOBREVIV?NCIA(Survival)",
-    "classeSub": "TRANS",
-    "levelCele": 374,
-    "levelSub": 362,
-    "guildMedal": "G2",
     "posicao": 38
   },
   {
