@@ -132,6 +132,17 @@
     "posicao": 12
   },
   {
+    "dataHoraCadastro": "2026-04-08T16:29:56.372Z",
+    "nome": "-1TACHI-",
+    "power": 877.18,
+    "classeCele": "NATUREZA(Nature)",
+    "classeSub": "SOBREVIV?NCIA(Survival)",
+    "levelCele": 409,
+    "levelSub": 408,
+    "guildMedal": "G1",
+    "posicao": 13
+  },
+  {
     "dataHoraCadastro": "2026-03-04T15:12:28.949Z",
     "nome": "Keffra",
     "power": 856.3,
@@ -140,7 +151,7 @@
     "levelCele": 425,
     "levelSub": 424,
     "guildMedal": "G1",
-    "posicao": 13
+    "posicao": 14
   },
   {
     "dataHoraCadastro": "2026-04-03T14:23:38.078Z",
@@ -151,7 +162,7 @@
     "levelCele": 420,
     "levelSub": 420,
     "guildMedal": "G1",
-    "posicao": 14
+    "posicao": 15
   },
   {
     "dataHoraCadastro": "2026-03-06T18:00:29.883Z",
@@ -162,7 +173,7 @@
     "levelCele": 422,
     "levelSub": 418,
     "guildMedal": "G1",
-    "posicao": 15
+    "posicao": 16
   },
   {
     "dataHoraCadastro": "2026-03-06T06:33:05.971Z",
@@ -173,7 +184,7 @@
     "levelCele": 418,
     "levelSub": 414,
     "guildMedal": "G1",
-    "posicao": 16
+    "posicao": 17
   },
   {
     "dataHoraCadastro": "2026-03-31T17:45:54.592Z",
@@ -184,7 +195,7 @@
     "levelCele": 430,
     "levelSub": 429,
     "guildMedal": "G1",
-    "posicao": 17
+    "posicao": 18
   },
   {
     "dataHoraCadastro": "2026-03-18T11:46:49.017Z",
@@ -195,7 +206,7 @@
     "levelCele": 410,
     "levelSub": 413,
     "guildMedal": "G1",
-    "posicao": 18
+    "posicao": 19
   },
   {
     "dataHoraCadastro": "2026-03-30T23:37:46.928Z",
@@ -206,7 +217,7 @@
     "levelCele": 411,
     "levelSub": 406,
     "guildMedal": "G1",
-    "posicao": 19
+    "posicao": 20
   },
   {
     "dataHoraCadastro": "2026-03-26T00:10:39.743Z",
@@ -217,7 +228,7 @@
     "levelCele": 425,
     "levelSub": 421,
     "guildMedal": "G1",
-    "posicao": 20
+    "posicao": 21
   },
   {
     "dataHoraCadastro": "2026-03-25T00:17:24.938Z",
@@ -228,7 +239,7 @@
     "levelCele": 421,
     "levelSub": 420,
     "guildMedal": "G1",
-    "posicao": 21
+    "posicao": 22
   },
   {
     "dataHoraCadastro": "2026-03-06T18:19:05.144Z",
@@ -238,17 +249,6 @@
     "classeSub": "SOBREVIV?NCIA(Survival)",
     "levelCele": 410,
     "levelSub": 410,
-    "guildMedal": "G1",
-    "posicao": 22
-  },
-  {
-    "dataHoraCadastro": "2026-03-24T18:00:53.537Z",
-    "nome": "-1TACHI-",
-    "power": 712.61,
-    "classeCele": "NATUREZA(Nature)",
-    "classeSub": "SOBREVIV?NCIA(Survival)",
-    "levelCele": 404,
-    "levelSub": 407,
     "guildMedal": "G1",
     "posicao": 23
   },
