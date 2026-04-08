@@ -176,17 +176,6 @@
     "posicao": 16
   },
   {
-    "dataHoraCadastro": "2026-03-18T11:56:22.260Z",
-    "nome": "RessMachine",
-    "power": 827.03,
-    "classeCele": "BRANCA(White)",
-    "classeSub": "TRANS",
-    "levelCele": 411,
-    "levelSub": 414,
-    "guildMedal": "G1",
-    "posicao": 17
-  },
-  {
     "dataHoraCadastro": "2026-03-31T17:45:54.592Z",
     "nome": "Alkapone ",
     "power": 819.27,
@@ -195,7 +184,7 @@
     "levelCele": 430,
     "levelSub": 429,
     "guildMedal": "G1",
-    "posicao": 18
+    "posicao": 17
   },
   {
     "dataHoraCadastro": "2026-03-18T11:46:49.017Z",
@@ -206,7 +195,7 @@
     "levelCele": 410,
     "levelSub": 413,
     "guildMedal": "G1",
-    "posicao": 19
+    "posicao": 18
   },
   {
     "dataHoraCadastro": "2026-03-30T23:37:46.928Z",
@@ -217,7 +206,7 @@
     "levelCele": 411,
     "levelSub": 406,
     "guildMedal": "G1",
-    "posicao": 20
+    "posicao": 19
   },
   {
     "dataHoraCadastro": "2026-03-26T00:10:39.743Z",
@@ -228,7 +217,7 @@
     "levelCele": 425,
     "levelSub": 421,
     "guildMedal": "G1",
-    "posicao": 21
+    "posicao": 20
   },
   {
     "dataHoraCadastro": "2026-03-25T00:17:24.938Z",
@@ -239,7 +228,7 @@
     "levelCele": 421,
     "levelSub": 420,
     "guildMedal": "G1",
-    "posicao": 22
+    "posicao": 21
   },
   {
     "dataHoraCadastro": "2026-03-06T18:19:05.144Z",
@@ -250,7 +239,7 @@
     "levelCele": 410,
     "levelSub": 410,
     "guildMedal": "G1",
-    "posicao": 23
+    "posicao": 22
   },
   {
     "dataHoraCadastro": "2026-03-24T18:00:53.537Z",
@@ -261,7 +250,7 @@
     "levelCele": 404,
     "levelSub": 407,
     "guildMedal": "G1",
-    "posicao": 24
+    "posicao": 23
   },
   {
     "dataHoraCadastro": "2026-03-03T22:23:48.970Z",
@@ -272,7 +261,7 @@
     "levelCele": 412,
     "levelSub": 403,
     "guildMedal": "G1",
-    "posicao": 25
+    "posicao": 24
   },
   {
     "dataHoraCadastro": "2026-03-08T01:39:59.207Z",
@@ -283,7 +272,7 @@
     "levelCele": 413,
     "levelSub": 411,
     "guildMedal": "G1",
-    "posicao": 26
+    "posicao": 25
   },
   {
     "dataHoraCadastro": "2026-03-31T18:07:04.812Z",
@@ -294,7 +283,7 @@
     "levelCele": 403,
     "levelSub": 402,
     "guildMedal": "G1",
-    "posicao": 27
+    "posicao": 26
   },
   {
     "dataHoraCadastro": "2026-03-31T00:40:48.065Z",
@@ -305,7 +294,7 @@
     "levelCele": 413,
     "levelSub": 402,
     "guildMedal": "G2",
-    "posicao": 28
+    "posicao": 27
   },
   {
     "dataHoraCadastro": "2026-03-08T21:49:44.640Z",
@@ -316,7 +305,7 @@
     "levelCele": 420,
     "levelSub": 419,
     "guildMedal": "G1",
-    "posicao": 29
+    "posicao": 28
   },
   {
     "dataHoraCadastro": "2026-03-19T03:12:14.872Z",
@@ -327,7 +316,7 @@
     "levelCele": 372,
     "levelSub": 360,
     "guildMedal": "G1",
-    "posicao": 30
+    "posicao": 29
   },
   {
     "dataHoraCadastro": "2026-03-31T17:49:11.497Z",
@@ -338,7 +327,7 @@
     "levelCele": 417,
     "levelSub": 420,
     "guildMedal": "G1",
-    "posicao": 31
+    "posicao": 30
   },
   {
     "dataHoraCadastro": "2026-02-27T22:24:24.861Z",
@@ -349,7 +338,7 @@
     "levelCele": 362,
     "levelSub": 360,
     "guildMedal": "G1",
-    "posicao": 32
+    "posicao": 31
   },
   {
     "dataHoraCadastro": "2026-03-30T11:33:49.489Z",
@@ -360,7 +349,7 @@
     "levelCele": 380,
     "levelSub": 380,
     "guildMedal": "G1",
-    "posicao": 33
+    "posicao": 32
   },
   {
     "dataHoraCadastro": "2026-03-18T11:47:54.034Z",
@@ -371,7 +360,7 @@
     "levelCele": 413,
     "levelSub": 420,
     "guildMedal": "G1",
-    "posicao": 34
+    "posicao": 33
   },
   {
     "dataHoraCadastro": "2026-03-04T03:58:38.920Z",
@@ -382,7 +371,7 @@
     "levelCele": 400,
     "levelSub": 397,
     "guildMedal": "G1",
-    "posicao": 35
+    "posicao": 34
   },
   {
     "dataHoraCadastro": "2026-03-30T11:40:22.029Z",
@@ -393,7 +382,7 @@
     "levelCele": 406,
     "levelSub": 400,
     "guildMedal": "G2",
-    "posicao": 36
+    "posicao": 35
   },
   {
     "dataHoraCadastro": "2026-02-27T23:20:05.839Z",
@@ -404,7 +393,7 @@
     "levelCele": 400,
     "levelSub": 403,
     "guildMedal": "G1",
-    "posicao": 37
+    "posicao": 36
   },
   {
     "dataHoraCadastro": "2026-03-03T22:29:50.952Z",
@@ -415,7 +404,7 @@
     "levelCele": 388,
     "levelSub": 391,
     "guildMedal": "G1",
-    "posicao": 38
+    "posicao": 37
   },
   {
     "dataHoraCadastro": "2026-03-05T23:56:23.346Z",
@@ -426,7 +415,7 @@
     "levelCele": 374,
     "levelSub": 362,
     "guildMedal": "G2",
-    "posicao": 39
+    "posicao": 38
   },
   {
     "dataHoraCadastro": "2026-03-24T18:20:34.087Z",
@@ -437,7 +426,7 @@
     "levelCele": 402,
     "levelSub": 409,
     "guildMedal": "G1",
-    "posicao": 40
+    "posicao": 39
   },
   {
     "dataHoraCadastro": "2026-03-06T01:39:07.818Z",
@@ -448,7 +437,7 @@
     "levelCele": 240,
     "levelSub": 230,
     "guildMedal": "G2",
-    "posicao": 41
+    "posicao": 40
   },
   {
     "dataHoraCadastro": "2026-04-07T16:06:43.999Z",
@@ -459,7 +448,7 @@
     "levelCele": 323,
     "levelSub": 321,
     "guildMedal": "G2",
-    "posicao": 42
+    "posicao": 41
   },
   {
     "dataHoraCadastro": "2026-03-31T19:44:37.564Z",
@@ -470,7 +459,7 @@
     "levelCele": 280,
     "levelSub": 280,
     "guildMedal": "sem guild ainda",
-    "posicao": 43
+    "posicao": 42
   },
   {
     "dataHoraCadastro": "2026-03-04T02:58:00.047Z",
@@ -481,7 +470,7 @@
     "levelCele": 399,
     "levelSub": 366,
     "guildMedal": "G2",
-    "posicao": 44
+    "posicao": 43
   },
   {
     "dataHoraCadastro": "2026-03-18T11:42:58.778Z",
@@ -492,7 +481,7 @@
     "levelCele": 340,
     "levelSub": 300,
     "guildMedal": "G2",
-    "posicao": 45
+    "posicao": 44
   },
   {
     "dataHoraCadastro": "2026-03-30T11:33:03.458Z",
@@ -503,7 +492,7 @@
     "levelCele": 403,
     "levelSub": 400,
     "guildMedal": "G2",
-    "posicao": 46
+    "posicao": 45
   },
   {
     "dataHoraCadastro": "2026-02-27T22:02:25.248Z",
@@ -514,7 +503,7 @@
     "levelCele": 300,
     "levelSub": 312,
     "guildMedal": "G2",
-    "posicao": 47
+    "posicao": 46
   },
   {
     "dataHoraCadastro": "2026-03-01T19:14:23.598Z",
@@ -525,6 +514,6 @@
     "levelCele": 220,
     "levelSub": 197,
     "guildMedal": "G2",
-    "posicao": 48
+    "posicao": 47
   }
 ]
