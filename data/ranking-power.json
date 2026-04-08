@@ -462,6 +462,17 @@
     "posicao": 42
   },
   {
+    "dataHoraCadastro": "2026-04-08T20:38:57.931Z",
+    "nome": "S1M45",
+    "power": 395.33,
+    "classeCele": "TRANS",
+    "classeSub": "NATUREZA(Nature)",
+    "levelCele": 244,
+    "levelSub": 243,
+    "guildMedal": "G2",
+    "posicao": 43
+  },
+  {
     "dataHoraCadastro": "2026-04-08T16:41:12.796Z",
     "nome": "-NexxoR-",
     "power": 384.46,
@@ -470,7 +481,7 @@
     "levelCele": 320,
     "levelSub": 320,
     "guildMedal": "G1",
-    "posicao": 43
+    "posicao": 44
   },
   {
     "dataHoraCadastro": "2026-03-04T02:58:00.047Z",
@@ -481,7 +492,7 @@
     "levelCele": 399,
     "levelSub": 366,
     "guildMedal": "G2",
-    "posicao": 44
+    "posicao": 45
   },
   {
     "dataHoraCadastro": "2026-03-18T11:42:58.778Z",
@@ -492,7 +503,7 @@
     "levelCele": 340,
     "levelSub": 300,
     "guildMedal": "G2",
-    "posicao": 45
+    "posicao": 46
   },
   {
     "dataHoraCadastro": "2026-03-30T11:33:03.458Z",
@@ -503,7 +514,7 @@
     "levelCele": 403,
     "levelSub": 400,
     "guildMedal": "G2",
-    "posicao": 46
+    "posicao": 47
   },
   {
     "dataHoraCadastro": "2026-02-27T22:02:25.248Z",
@@ -514,7 +525,7 @@
     "levelCele": 300,
     "levelSub": 312,
     "guildMedal": "G2",
-    "posicao": 47
+    "posicao": 48
   },
   {
     "dataHoraCadastro": "2026-03-01T19:14:23.598Z",
@@ -525,6 +536,6 @@
     "levelCele": 220,
     "levelSub": 197,
     "guildMedal": "G2",
-    "posicao": 48
+    "posicao": 49
   }
 ]
