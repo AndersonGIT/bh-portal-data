@@ -308,6 +308,17 @@
     "posicao": 28
   },
   {
+    "dataHoraCadastro": "2026-04-08T19:51:05.817Z",
+    "nome": "FM-BB",
+    "power": 669.48,
+    "classeCele": "BLACK",
+    "classeSub": "ESPECIAL(Special)",
+    "levelCele": 400,
+    "levelSub": 370,
+    "guildMedal": "G1",
+    "posicao": 29
+  },
+  {
     "dataHoraCadastro": "2026-03-08T21:49:44.640Z",
     "nome": "Goudenlionn",
     "power": 660.03,
@@ -315,17 +326,6 @@
     "classeSub": "SOBREVIV?NCIA(Survival)",
     "levelCele": 420,
     "levelSub": 419,
-    "guildMedal": "G1",
-    "posicao": 29
-  },
-  {
-    "dataHoraCadastro": "2026-03-19T03:12:14.872Z",
-    "nome": "FM-BB",
-    "power": 637.7,
-    "classeCele": "BLACK",
-    "classeSub": "CONFIAN?A(Faith)",
-    "levelCele": 372,
-    "levelSub": 360,
     "guildMedal": "G1",
     "posicao": 30
   },
