@@ -22,6 +22,17 @@
     "posicao": 2
   },
   {
+    "dataHoraCadastro": "2026-04-09T03:13:31.054Z",
+    "nome": "SheelVPower",
+    "power": 992.31,
+    "classeCele": "NATUREZA(Nature)",
+    "classeSub": "TRANS",
+    "levelCele": 427,
+    "levelSub": 424,
+    "guildMedal": "G1",
+    "posicao": 3
+  },
+  {
     "dataHoraCadastro": "2026-04-01T22:04:18.361Z",
     "nome": "zVoid",
     "power": 986.83,
@@ -29,17 +40,6 @@
     "classeSub": "NATUREZA(Nature)",
     "levelCele": 430,
     "levelSub": 426,
-    "guildMedal": "G1",
-    "posicao": 3
-  },
-  {
-    "dataHoraCadastro": "2026-03-22T14:24:48.690Z",
-    "nome": "SheelVPower",
-    "power": 972,
-    "classeCele": "NATUREZA(Nature)",
-    "classeSub": "TRANS",
-    "levelCele": 424,
-    "levelSub": 423,
     "guildMedal": "G1",
     "posicao": 4
   },
