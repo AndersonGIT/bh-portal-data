@@ -253,17 +253,6 @@
     "posicao": 23
   },
   {
-    "dataHoraCadastro": "2026-03-25T00:17:24.938Z",
-    "nome": "PuroVoodoo",
-    "power": 748.62,
-    "classeCele": "BLACK",
-    "classeSub": "BLACK",
-    "levelCele": 421,
-    "levelSub": 420,
-    "guildMedal": "G1",
-    "posicao": 24
-  },
-  {
     "dataHoraCadastro": "2026-04-09T08:28:55.524Z",
     "nome": "FoRtex",
     "power": 739.22,
@@ -272,7 +261,7 @@
     "levelCele": 418,
     "levelSub": 410,
     "guildMedal": "G1",
-    "posicao": 25
+    "posicao": 24
   },
   {
     "dataHoraCadastro": "2026-03-03T22:23:48.970Z",
@@ -283,7 +272,7 @@
     "levelCele": 412,
     "levelSub": 403,
     "guildMedal": "G1",
-    "posicao": 26
+    "posicao": 25
   },
   {
     "dataHoraCadastro": "2026-03-08T01:39:59.207Z",
@@ -294,7 +283,7 @@
     "levelCele": 413,
     "levelSub": 411,
     "guildMedal": "G1",
-    "posicao": 27
+    "posicao": 26
   },
   {
     "dataHoraCadastro": "2026-03-31T18:07:04.812Z",
@@ -305,7 +294,7 @@
     "levelCele": 403,
     "levelSub": 402,
     "guildMedal": "G1",
-    "posicao": 28
+    "posicao": 27
   },
   {
     "dataHoraCadastro": "2026-03-31T00:40:48.065Z",
@@ -316,7 +305,7 @@
     "levelCele": 413,
     "levelSub": 402,
     "guildMedal": "G2",
-    "posicao": 29
+    "posicao": 28
   },
   {
     "dataHoraCadastro": "2026-04-08T19:51:05.817Z",
@@ -326,6 +315,17 @@
     "classeSub": "ESPECIAL(Special)",
     "levelCele": 400,
     "levelSub": 370,
+    "guildMedal": "G1",
+    "posicao": 29
+  },
+  {
+    "dataHoraCadastro": "2026-04-10T00:30:16.025Z",
+    "nome": "PuroVoodoo",
+    "power": 658.62,
+    "classeCele": "BLACK",
+    "classeSub": "BLACK",
+    "levelCele": 421,
+    "levelSub": 420,
     "guildMedal": "G1",
     "posicao": 30
   },
