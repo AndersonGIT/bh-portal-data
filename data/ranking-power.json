@@ -242,6 +242,17 @@
     "posicao": 22
   },
   {
+    "dataHoraCadastro": "2026-04-10T01:01:41.376Z",
+    "nome": "LevYzao",
+    "power": 771.18,
+    "classeCele": "SOBREVIV?NCIA(Survival)",
+    "classeSub": "NATUREZA(Nature)",
+    "levelCele": 425,
+    "levelSub": 421,
+    "guildMedal": "G1",
+    "posicao": 23
+  },
+  {
     "dataHoraCadastro": "2026-04-10T00:29:02.822Z",
     "nome": "Goudenlionn",
     "power": 764.03,
@@ -249,17 +260,6 @@
     "classeSub": "SOBREVIV?NCIA(Survival)",
     "levelCele": 420,
     "levelSub": 419,
-    "guildMedal": "G1",
-    "posicao": 23
-  },
-  {
-    "dataHoraCadastro": "2026-03-26T00:10:39.743Z",
-    "nome": "LevYzao",
-    "power": 757.12,
-    "classeCele": "SOBREVIV?NCIA(Survival)",
-    "classeSub": "NATUREZA(Nature)",
-    "levelCele": 425,
-    "levelSub": 421,
     "guildMedal": "G1",
     "posicao": 24
   },
